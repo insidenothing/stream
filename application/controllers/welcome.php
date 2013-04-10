@@ -19,7 +19,34 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('welcome_message');
+		
+		
+		function isIphone($user_agent=NULL) {
+			if(!isset($user_agent)) {
+				$user_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : '';
+			}
+			return (strpos($user_agent, 'iPhone') !== FALSE);
+		}
+		function isAndroid($user_agent=NULL) {
+			if(!isset($user_agent)) {
+				$user_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : '';
+			}
+			return (strpos($user_agent, 'Android') !== FALSE);
+		}
+
+		if($this->isIphone()) {
+			$this->load->view('iphone_common');
+		}elseif($this->isAndroid()) {
+			$this->load->view('android_common');
+		}else{
+			$this->load->view('desktop_common');
+		}
+		
+		
+		$data['debug'] = $_SERVER['HTTP_USER_AGENT'];
+		
+		
+		$this->load->view('welcome_message',$data);
 	}
 }
 
