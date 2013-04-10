@@ -17,11 +17,8 @@ class Welcome extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
-	public function index()
-	{
-		
-		
-		function isIphone($user_agent=NULL) {
+	 
+	 function isIphone($user_agent=NULL) {
 			if(!isset($user_agent)) {
 				$user_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : '';
 			}
@@ -33,6 +30,12 @@ class Welcome extends CI_Controller {
 			}
 			return (strpos($user_agent, 'Android') !== FALSE);
 		}
+	 
+	public function index()
+	{
+		
+		
+		
 
 		if($this->isIphone()) {
 			$this->load->view('iphone_common');
