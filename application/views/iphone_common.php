@@ -1,1 +1,1 @@
-<img src="/assets/images/iphone.png">
+<img src="/assets/images/apple.png">
