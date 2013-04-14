@@ -7,13 +7,13 @@
 c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,c&&0<f&&(c[g]("_tbnd",void 0,b.external.startE),c[g]("tbnd_","_tbnd",f))),a&&(b[e].pt=a)}catch(l){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[e].load[g]("aft")};var h=!1;function k(){h||(h=!0,b[e].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",k,!1):b.attachEvent("onscroll",k);
  })();</script>
 <meta content='true' name='MSSmartTagsPreventParsing'/>
-<meta content='blogger' name='generator'/>
+<meta content='Stream' name='generator'/>
 <link href='http://syndicatestream.com/favicon.ico' rel='icon' type='image/x-icon'/>
 <link href='http://syndicatestream.com/' rel='canonical'/>
 <link rel="alternate" type="application/atom+xml" title="FinanceStock - Atom" href="http://syndicatestream.com/feeds/posts/default" />
 <link rel="alternate" type="application/rss+xml" title="FinanceStock - RSS" href="http://syndicatestream.com/feeds/posts/default?alt=rss" />
 <link rel="service.post" type="application/atom+xml" title="FinanceStock - Atom" href="http://syndicatestream" />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=2120213698440303768" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.Stream.com/rsd.g?blogID=2120213698440303768" />
 <link rel="me" href="http://syndicatestream" />
 <link rel="openid.server" href="http://google.com" />
 <link rel="openid.delegate" href="http://syndicatestream.com/" />
@@ -22,13 +22,13 @@ c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null
 <style id='page-skin-1' type='text/css'><!--
 /*
 -----------------------------------------------
-Blogger Template Style
+Stream Template Style
 Name:   FinanceStock
 Author: Lasantha Bandara
-URL 1:  http://www.premiumbloggertemplates.com/
-URL 2:  http://www.bloggertipandtrick.net/
+URL 1:  http://www.premiumStreamtemplates.com/
+URL 2:  http://www.Streamtipandtrick.net/
 Date:   September 2012
-License:  This free Blogger template is licensed under the Creative Commons Attribution 3.0 License, which permits both personal and commercial use.
+License:  This free Stream template is licensed under the Creative Commons Attribution 3.0 License, which permits both personal and commercial use.
 However, to satisfy the 'attribution' clause of the license, you are required to keep the footer links intact which provides due credit to its authors. For more specific details about the license, you may visit the URL below:
 http://creativecommons.org/licenses/by/3.0/
 ----------------------------------------------- */
@@ -673,7 +673,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=PageList&widgetId=PageList8&action=editWidget&sectionId=pagelistmenusblog' onclick='return _WidgetManager._PopupConfig(document.getElementById("PageList8"));' target='configPageList8' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=PageList&widgetId=PageList8&action=editWidget&sectionId=pagelistmenusblog' onclick='return _WidgetManager._PopupConfig(document.getElementById("PageList8"));' target='configPageList8' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -705,12 +705,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div></div>
 <div class='header section' id='header2'><div class='widget HTML' id='HTML6'>
 <div class='widget-content'>
-<a href='http://btemplates.com'><img src="http://lh3.googleusercontent.com/-u-L5QWjRF8U/TjAabYDxpfI/AAAAAAAAFrg/CY_D96zs7QU/d/cccccc%25255B1%25255D.png"  alt='Blogger Templates' width='468' height='60' /></a>
+<a href='http://btemplates.com'><img src="http://lh3.googleusercontent.com/-u-L5QWjRF8U/TjAabYDxpfI/AAAAAAAAFrg/CY_D96zs7QU/d/cccccc%25255B1%25255D.png"  alt='Stream Templates' width='468' height='60' /></a>
 </div>
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=header2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' target='configHTML6' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=header2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' target='configHTML6' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -785,7 +785,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <a href='#'>This is default featured slide 1 title</a>
 </h3>
 <p>
-Go to Blogger edit html and find these sentences.Now replace these sentences with your own descriptions. 
+Go to Stream edit html and find these sentences.Now replace these sentences with your own descriptions. 
 </p>
 </div>
 <div class='fp-prev-next-wrap clearfix'>
@@ -806,7 +806,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <a href='#'>This is default featured slide 2 title</a>
 </h3>
 <p>
-Go to Blogger edit html and find these sentences.Now replace these sentences with your own descriptions. 
+Go to Stream edit html and find these sentences.Now replace these sentences with your own descriptions. 
 </p>
 </div>
 <div class='fp-prev-next-wrap clearfix'>
@@ -827,7 +827,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <a href='#'>This is default featured slide 3 title</a>
 </h3>
 <p>
-Go to Blogger edit html and find these sentences.Now replace these sentences with your own descriptions. 
+Go to Stream edit html and find these sentences.Now replace these sentences with your own descriptions. 
 </p>
 </div>
 <div class='fp-prev-next-wrap clearfix'>
@@ -848,7 +848,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <a href='#'>This is default featured slide 4 title</a>
 </h3>
 <p>
-Go to Blogger edit html and find these sentences.Now replace these sentences with your own descriptions. 
+Go to Stream edit html and find these sentences.Now replace these sentences with your own descriptions. 
 </p>
 </div>
 <div class='fp-prev-next-wrap clearfix'>
@@ -869,7 +869,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <a href='#'>This is default featured slide 5 title</a>
 </h3>
 <p>
-Go to Blogger edit html and find these sentences.Now replace these sentences with your own descriptions. 
+Go to Stream edit html and find these sentences.Now replace these sentences with your own descriptions. 
 </p>
 </div>
 <div class='fp-prev-next-wrap clearfix'>
@@ -916,7 +916,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 </div>
 <div class='post-body entry-content'>
 <p>
-<div id='summary8093313178999255057'><p><img src="http://lh3.googleusercontent.com/_Zuzii37VUO4/Ta0nUeMwXoI/AAAAAAAAFoc/7f0Um7OTgNg/s000/Antartic-by-Peter-Rejcek.jpg" alt="Antartic. By Peter Rejcek" width="500" height="332"></p><p>Download this and more <a href="http://btemplates.com/">Blogger Templates</a> at <a href="http://btemplates.com" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px; !important; background:none !important;" title="BTemplates"><img src="http://1.bp.blogspot.com/_zNpQsOlwuPA/S2lKsFgNlMI/AAAAAAAAAKw/0Qay8rrjLKQ/s000/btemplates-small.png" alt="BTemplates" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px;background:none !important;"></a>. For tutorials, tips and tricks about Blogger visit our <a title="Blogger Tutorials" href="http://blog.btemplates.com">Blog</a>.</p><p><strong>&#187; A normal paragraph</strong></p><p>Ea eam labores imperdiet, apeirian democritum ei nam, doming neglegentur ad vis. Ne malorum ceteros feugait quo, ius ea liber offendit placerat, est habemus aliquyam legendos id. Eam no corpora maluisset definitiones, eam mucius malorum id. Quo ea idque commodo utroque, per ex eros etiam accumsan.</p><p><strong>&#187; A paragraph format</strong></p><p>Et posse meliore <strong>definitiones (strong)</strong> his, vim <em>tritani vulputate (italic)</em> pertinacia at. <acronym title="Acronym">Augue quaerendum (Acronym)</acronym> te sea, ex <sub>sed</sub> <sup>sint</sup> <span style="text-decoration: line-through;">invenire erroribus</span>. Cu vel ceteros scripserit, te usu modus fabellas mediocritatem. In legere regione instructior eos. Ea repudiandae suscipiantur vim, vel partem labores ponderum in <a href="http://btemplates.com/" title="Templates for Blogger">blogger templates (link).</a></p><p><strong>&#187; A paragraph as code</strong></p><p><code>Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, sea at labitur deserunt. Eam dicam congue soluta ut.</code></p><p><strong>&#187; A paragraph as blockquote</strong></p><blockquote><p>Eu mei solum oporteat eleifend, libris nominavi maiestatis duo at, quod dissentiet vel te. Legere prompta impedit id eum. Te soleat vocibus luptatum sed, augue dicta populo est ad, et consul diceret officiis duo. Et duo primis nostrum.</p></blockquote><p><strong>&#187; Unordered list</strong></p><ul><li>Blogger templates</li><li>Templates</li><li>Blogs</li><li>Layouts</li><li>Skins</li><li>BTemplates</li></ul><p><strong>&#187; Ordered list</strong></p><ol><li>Login</li><li>Visit <a href="http://btemplates.com/">BTemplates</a></li><li>Download template</li><li>Install</li><li>Enjoy!</li></ol><p><strong>&#187; Heading</strong></p><h1>Heading 1</h1><h2>Heading 2</h2><h3>Heading 3</h3><h4>Heading 4</h4><h5>Heading 5</h5><h6>Heading 6</h6><p><strong>&#187; A table</strong></p></div>
+<div id='summary8093313178999255057'><p><img src="http://lh3.googleusercontent.com/_Zuzii37VUO4/Ta0nUeMwXoI/AAAAAAAAFoc/7f0Um7OTgNg/s000/Antartic-by-Peter-Rejcek.jpg" alt="Antartic. By Peter Rejcek" width="500" height="332"></p><p>Download this and more <a href="http://btemplates.com/">Stream Templates</a> at <a href="http://btemplates.com" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px; !important; background:none !important;" title="BTemplates"><img src="http://1.bp.blogspot.com/_zNpQsOlwuPA/S2lKsFgNlMI/AAAAAAAAAKw/0Qay8rrjLKQ/s000/btemplates-small.png" alt="BTemplates" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px;background:none !important;"></a>. For tutorials, tips and tricks about Stream visit our <a title="Stream Tutorials" href="http://blog.btemplates.com">Blog</a>.</p><p><strong>&#187; A normal paragraph</strong></p><p>Ea eam labores imperdiet, apeirian democritum ei nam, doming neglegentur ad vis. Ne malorum ceteros feugait quo, ius ea liber offendit placerat, est habemus aliquyam legendos id. Eam no corpora maluisset definitiones, eam mucius malorum id. Quo ea idque commodo utroque, per ex eros etiam accumsan.</p><p><strong>&#187; A paragraph format</strong></p><p>Et posse meliore <strong>definitiones (strong)</strong> his, vim <em>tritani vulputate (italic)</em> pertinacia at. <acronym title="Acronym">Augue quaerendum (Acronym)</acronym> te sea, ex <sub>sed</sub> <sup>sint</sup> <span style="text-decoration: line-through;">invenire erroribus</span>. Cu vel ceteros scripserit, te usu modus fabellas mediocritatem. In legere regione instructior eos. Ea repudiandae suscipiantur vim, vel partem labores ponderum in <a href="http://btemplates.com/" title="Templates for Stream">Stream templates (link).</a></p><p><strong>&#187; A paragraph as code</strong></p><p><code>Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, sea at labitur deserunt. Eam dicam congue soluta ut.</code></p><p><strong>&#187; A paragraph as blockquote</strong></p><blockquote><p>Eu mei solum oporteat eleifend, libris nominavi maiestatis duo at, quod dissentiet vel te. Legere prompta impedit id eum. Te soleat vocibus luptatum sed, augue dicta populo est ad, et consul diceret officiis duo. Et duo primis nostrum.</p></blockquote><p><strong>&#187; Unordered list</strong></p><ul><li>Stream templates</li><li>Templates</li><li>Blogs</li><li>Layouts</li><li>Skins</li><li>BTemplates</li></ul><p><strong>&#187; Ordered list</strong></p><ol><li>Login</li><li>Visit <a href="http://btemplates.com/">BTemplates</a></li><li>Download template</li><li>Install</li><li>Enjoy!</li></ol><p><strong>&#187; Heading</strong></p><h1>Heading 1</h1><h2>Heading 2</h2><h3>Heading 3</h3><h4>Heading 4</h4><h5>Heading 5</h5><h6>Heading 6</h6><p><strong>&#187; A table</strong></p></div>
 <script type='text/javascript'>createSummaryAndThumb("summary8093313178999255057");</script>
 </p>
 <div class='readmore'>
@@ -932,7 +932,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.blogger.com/post-edit.g?blogID=2120213698440303768&postID=8093313178999255057&from=pencil' title='Edit Post'>
+<a href='http://www.Stream.com/post-edit.g?blogID=2120213698440303768&postID=8093313178999255057&from=pencil' title='Edit Post'>
 <img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
 </a>
 </span>
@@ -955,7 +955,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 </div>
 <div class='post-body entry-content'>
 <p>
-<div id='summary8921239412520880503'><p><strong>&raquo; An Image</strong></p><p style="display:block; text-align:center;"><img style="margin:0px auto 10px;" src="http://lh3.googleusercontent.com/_Zuzii37VUO4/Ta0nUFUhg6I/AAAAAAAAFoY/GToUxRYcteY/s000/Antartic-by-Kelly-Speelman.jpg" border="0" alt="Antartic. by Kelly Speelman." width="500" height="332"/></p><p>Download this and more <a href="http://btemplates.com/">Blogger Templates</a> at <a href="http://btemplates.com" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px; !important; background:none !important;" title="BTemplates"><img src="http://1.bp.blogspot.com/_zNpQsOlwuPA/S2lKsFgNlMI/AAAAAAAAAKw/0Qay8rrjLKQ/s000/btemplates-small.png" alt="BTemplates" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px;background:none !important;"></a>. For tutorials, tips and tricks about Blogger visit our <a title="Blogger Tutorials" href="http://blog.btemplates.com">Blog</a>.</p><p><strong>&raquo; A floating image with link and text</strong></p><p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://btemplates.com"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 184px; height: 32px;" src="http://2.bp.blogspot.com/_Zuzii37VUO4/SdSQklhdvBI/AAAAAAAAEQU/-K-OReo6lig/s1600/www-btemplates-com.png" alt="BTemplates" border="0" /></a> Ea eam labores imperdiet, apeirian democritum ei nam, doming neglegentur ad vis. Ne malorum ceteros feugait quo, ius ea liber offendit placerat, est habemus aliquyam legendos id. Eam no corpora maluisset definitiones, eam mucius malorum id. Quo ea idque commodo utroque, per ex eros etiam accumsan.</p><p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://btemplates.com"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 184px; height: 32px;" src="http://2.bp.blogspot.com/_Zuzii37VUO4/SdSQklhdvBI/AAAAAAAAEQU/-K-OReo6lig/s1600/www-btemplates-com.png" border="0" alt="Blogger Templates" /></a> Eu mei solum oporteat eleifend, libris nominavi maiestatis duo at, quod dissentiet vel te. Legere prompta impedit id eum. Te soleat vocibus luptatum sed, augue dicta populo est ad, et consul diceret officiis duo. Et duo primis nostrum.</p></div>
+<div id='summary8921239412520880503'><p><strong>&raquo; An Image</strong></p><p style="display:block; text-align:center;"><img style="margin:0px auto 10px;" src="http://lh3.googleusercontent.com/_Zuzii37VUO4/Ta0nUFUhg6I/AAAAAAAAFoY/GToUxRYcteY/s000/Antartic-by-Kelly-Speelman.jpg" border="0" alt="Antartic. by Kelly Speelman." width="500" height="332"/></p><p>Download this and more <a href="http://btemplates.com/">Stream Templates</a> at <a href="http://btemplates.com" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px; !important; background:none !important;" title="BTemplates"><img src="http://1.bp.blogspot.com/_zNpQsOlwuPA/S2lKsFgNlMI/AAAAAAAAAKw/0Qay8rrjLKQ/s000/btemplates-small.png" alt="BTemplates" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px;background:none !important;"></a>. For tutorials, tips and tricks about Stream visit our <a title="Stream Tutorials" href="http://blog.btemplates.com">Blog</a>.</p><p><strong>&raquo; A floating image with link and text</strong></p><p><a onblur="try {parent.deselectStreamImageGracefully();} catch(e) {}" href="http://btemplates.com"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 184px; height: 32px;" src="http://2.bp.blogspot.com/_Zuzii37VUO4/SdSQklhdvBI/AAAAAAAAEQU/-K-OReo6lig/s1600/www-btemplates-com.png" alt="BTemplates" border="0" /></a> Ea eam labores imperdiet, apeirian democritum ei nam, doming neglegentur ad vis. Ne malorum ceteros feugait quo, ius ea liber offendit placerat, est habemus aliquyam legendos id. Eam no corpora maluisset definitiones, eam mucius malorum id. Quo ea idque commodo utroque, per ex eros etiam accumsan.</p><p><a onblur="try {parent.deselectStreamImageGracefully();} catch(e) {}" href="http://btemplates.com"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 184px; height: 32px;" src="http://2.bp.blogspot.com/_Zuzii37VUO4/SdSQklhdvBI/AAAAAAAAEQU/-K-OReo6lig/s1600/www-btemplates-com.png" border="0" alt="Stream Templates" /></a> Eu mei solum oporteat eleifend, libris nominavi maiestatis duo at, quod dissentiet vel te. Legere prompta impedit id eum. Te soleat vocibus luptatum sed, augue dicta populo est ad, et consul diceret officiis duo. Et duo primis nostrum.</p></div>
 <script type='text/javascript'>createSummaryAndThumb("summary8921239412520880503");</script>
 </p>
 <div class='readmore'>
@@ -968,7 +968,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.blogger.com/post-edit.g?blogID=2120213698440303768&postID=8921239412520880503&from=pencil' title='Edit Post'>
+<a href='http://www.Stream.com/post-edit.g?blogID=2120213698440303768&postID=8921239412520880503&from=pencil' title='Edit Post'>
 <img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
 </a>
 </span>
@@ -991,7 +991,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 </div>
 <div class='post-body entry-content'>
 <p>
-<div id='summary7814775718246479986'><p><img src="http://lh6.googleusercontent.com/_Zuzii37VUO4/TaTi3fuciqI/AAAAAAAAFn8/jWQEmLcihNs/s000/popocatepetl-iztaccihuatl.jpg" alt="Volcanoes Popocatepetl and Iztaccihuatl, M&eacute;xico. By Fco. Vicente" width="500" height="332"/></p><p>Download this and more <a href="http://btemplates.com/">Blogger Templates</a> at <a href="http://btemplates.com" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px; !important; background:none !important;" title="BTemplates"><img src="http://1.bp.blogspot.com/_zNpQsOlwuPA/S2lKsFgNlMI/AAAAAAAAAKw/0Qay8rrjLKQ/s000/btemplates-small.png" alt="BTemplates" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px;background:none !important;" /></a>. For tutorials, tips and tricks about Blogger visit our <a title="Blogger Tutorials" href="http://blog.btemplates.com">Blog</a>.</p>
+<div id='summary7814775718246479986'><p><img src="http://lh6.googleusercontent.com/_Zuzii37VUO4/TaTi3fuciqI/AAAAAAAAFn8/jWQEmLcihNs/s000/popocatepetl-iztaccihuatl.jpg" alt="Volcanoes Popocatepetl and Iztaccihuatl, M&eacute;xico. By Fco. Vicente" width="500" height="332"/></p><p>Download this and more <a href="http://btemplates.com/">Stream Templates</a> at <a href="http://btemplates.com" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px; !important; background:none !important;" title="BTemplates"><img src="http://1.bp.blogspot.com/_zNpQsOlwuPA/S2lKsFgNlMI/AAAAAAAAAKw/0Qay8rrjLKQ/s000/btemplates-small.png" alt="BTemplates" style="border:0 !important;text-decoration:none !important; margin:0px !important; padding:0px;background:none !important;" /></a>. For tutorials, tips and tricks about Stream visit our <a title="Stream Tutorials" href="http://blog.btemplates.com">Blog</a>.</p>
 <br /></div>
 <script type='text/javascript'>createSummaryAndThumb("summary7814775718246479986");</script>
 </p>
@@ -1005,7 +1005,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.blogger.com/post-edit.g?blogID=2120213698440303768&postID=7814775718246479986&from=pencil' title='Edit Post'>
+<a href='http://www.Stream.com/post-edit.g?blogID=2120213698440303768&postID=7814775718246479986&from=pencil' title='Edit Post'>
 <img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
 </a>
 </span>
@@ -1041,7 +1041,7 @@ Go to Blogger edit html and find these sentences.Now replace these sentences wit
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.blogger.com/post-edit.g?blogID=2120213698440303768&postID=4187622778596319924&from=pencil' title='Edit Post'>
+<a href='http://www.Stream.com/post-edit.g?blogID=2120213698440303768&postID=4187622778596319924&from=pencil' title='Edit Post'>
 <img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
 </a>
 </span>
@@ -1111,7 +1111,7 @@ Subscribe to:
 </a>
 </div>
 <div class='item-title'><a href='http://syndicatestream.com/2013/02/lorem-ipsum_8429.html'>Lorem Ipsum</a></div>
-<div class='item-snippet'>Download this and more Blogger Templates  at . For tutorials, tips and tricks about Blogger visit our Blog . &#187; A normal paragraph Ea eam lab...</div>
+<div class='item-snippet'>Download this and more Stream Templates  at . For tutorials, tips and tricks about Stream visit our Blog . &#187; A normal paragraph Ea eam lab...</div>
 </div>
 <div style='clear: both;'></div>
 </li>
@@ -1119,7 +1119,7 @@ Subscribe to:
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebartab1' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebartab1' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1149,7 +1149,7 @@ Subscribe to:
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=Label&widgetId=Label3&action=editWidget&sectionId=sidebartab2' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label3"));' target='configLabel3' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=Label&widgetId=Label3&action=editWidget&sectionId=sidebartab2' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label3"));' target='configLabel3' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1193,7 +1193,7 @@ Subscribe to:
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebartab3' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebartab3' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1371,7 +1371,7 @@ Subscribe to:
   <div id="share-box-0">    
 <!--div class="g-plus" data-href="https://plus.google.com/112902034741937106481" data-size="smallbadge"></div-->
     <div class="fb-like-box">
-      <iframe scrolling="no" style="border-width: initial; border-color: initial; overflow-x: hidden; overflow-y: hidden; width: 286px; height: 66px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; " title="Like this content on Facebook." class="fb_ltr" src="http://www.facebook.com/plugins/like.php?api_key=116628718381794&amp;channel_url=http%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%3Fversion%3D3%23cb%3Df3ad0f9634%26origin%3Dhttp%253A%252F%252Fbtemplates.com%252Ff10c01d874%26relation%3Dparent.parent%26transport%3Dpostmessage&amp;extended_social_context=false&amp;href=http%3A%2F%2Ffacebook.com%2Fbloggertemplates&amp;layout=standard&amp;locale=en_US&amp;node_type=link&amp;sdk=joey&amp;show_faces=true&amp;width=286"></iframe>
+      <iframe scrolling="no" style="border-width: initial; border-color: initial; overflow-x: hidden; overflow-y: hidden; width: 286px; height: 66px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; " title="Like this content on Facebook." class="fb_ltr" src="http://www.facebook.com/plugins/like.php?api_key=116628718381794&amp;channel_url=http%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%3Fversion%3D3%23cb%3Df3ad0f9634%26origin%3Dhttp%253A%252F%252Fbtemplates.com%252Ff10c01d874%26relation%3Dparent.parent%26transport%3Dpostmessage&amp;extended_social_context=false&amp;href=http%3A%2F%2Ffacebook.com%2FStreamtemplates&amp;layout=standard&amp;locale=en_US&amp;node_type=link&amp;sdk=joey&amp;show_faces=true&amp;width=286"></iframe>
     </div>
     <div class="gplusone">
       <div class="g-plusone po-stub" data-size="medium" data-count="true" data-callback="fire_multitrack" data-href="http://btemplates.com/"></div> <span>Recommend on Google</span>
@@ -1411,14 +1411,14 @@ Subscribe to:
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebarright' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebarright' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
 <div class='clear'></div>
 </div><div class='widget HTML' id='HTML5'>
-<h2 class='title'>Blogger templates</h2>
+<h2 class='title'>Stream templates</h2>
 <div class='widget-content'>
 <script type="text/javascript">if(typeof jQuery == 'undefined'){document.write("<scr" + "ipt type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js'></scr" + "ipt>");}</script>
 <ul id="rssdata" style="display:none;"></ul><div id="rssloading">Loading...</div>
@@ -1442,7 +1442,7 @@ jQuery('#rssdata').slideDown();
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebarright' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' target='configHTML5' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebarright' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' target='configHTML5' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1461,7 +1461,7 @@ jQuery('#rssdata').slideDown();
 <ul class='widget-container'>
 <li>
 <div class='footersec section' id='footersec1'><div class='widget HTML' id='HTML4'>
-<h2 class='title'>Blogger news</h2>
+<h2 class='title'>Stream news</h2>
 <div class='widget-content'>
 <script type="text/javascript">if(typeof jQuery == 'undefined'){document.write("<scr" + "ipt type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js'></scr" + "ipt>");}</script>
 <ul id="rssdata1" style="display:none;"></ul><div id="rssloading1">Loading...</div>
@@ -1485,7 +1485,7 @@ jQuery('#rssdata1').slideDown();
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=footersec1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=footersec1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1501,12 +1501,12 @@ jQuery('#rssdata1').slideDown();
 <div class='footersec section' id='footersec2'><div class='widget HTML' id='HTML3'>
 <h2 class='title'>Blogroll</h2>
 <div class='widget-content'>
-<ul><li><a href="http://btemplates.com" title="Blogger templates">BTemplates</a></li><li><a href="http://blog.btemplates.com">BTemplates Blog</a></li><li><a href="http://www.premiumbloggertemplates.com/">PBTemplates</a></li></ul>
+<ul><li><a href="http://btemplates.com" title="Stream templates">BTemplates</a></li><li><a href="http://blog.btemplates.com">BTemplates Blog</a></li><li><a href="http://www.premiumStreamtemplates.com/">PBTemplates</a></li></ul>
 </div>
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=footersec2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=footersec2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1522,12 +1522,12 @@ jQuery('#rssdata1').slideDown();
 <div class='footersec section' id='footersec3'><div class='widget HTML' id='HTML2'>
 <h2 class='title'>About</h2>
 <div class='widget-content'>
-Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, sea at labitur deserunt. Eam dicam congue soluta ut. <a href='http://btemplates.com'>Blogger Templates</a>
+Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, sea at labitur deserunt. Eam dicam congue soluta ut. <a href='http://btemplates.com'>Stream Templates</a>
 </div>
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footersec3' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Edit'>
+<a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footersec3' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Edit'>
 <img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1544,11 +1544,11 @@ Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, s
 <div id='footer'>
 <div id='copyrights'>
 Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
-<a href='http://syndicatestream.com/'>FinanceStock</a> | Powered by <a href='http://www.blogger.com/'>Blogger</a>
+<a href='http://syndicatestream.com/'>FinanceStock</a> | Powered by <a href='http://www.Stream.com/'>Stream</a>
 </div>
 <div id='credits'>
 <!-- you don't have permission to remove or change these -->
-Design by <a href='http://newwpthemes.com/' target='_blank'>NewWpThemes</a> | Blogger Theme by <a href='http://www.bloggertipandtrick.net/' target='_blank' title='Best Blogging Tutorials'>Lasantha</a> - <a href='http://www.premiumbloggertemplates.com/' target='_blank' title='Free Blogger Templates'>Premium Blogger Themes</a><br/><a href='http://newbloggerthemes.com/' target='_blank' title='Best Blogger Templates'>NewBloggerThemes.com</a>
+Design by <a href='http://newwpthemes.com/' target='_blank'>NewWpThemes</a> | Stream Theme by <a href='http://www.Streamtipandtrick.net/' target='_blank' title='Best Blogging Tutorials'>Lasantha</a> - <a href='http://www.premiumStreamtemplates.com/' target='_blank' title='Free Stream Templates'>Premium Stream Themes</a><br/><a href='http://newStreamthemes.com/' target='_blank' title='Best Stream Templates'>NewStreamThemes.com</a>
 </div>
 </div><!-- #footer -->
 </div>
@@ -1557,11 +1557,11 @@ Design by <a href='http://newwpthemes.com/' target='_blank'>NewWpThemes</a> | Bl
 <!-- end outer-wrapper -->
 <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/1384195903-widgets.js"></script>
+</script><script type="text/javascript" src="//www.Stream.com/static/v1/widgets/1384195903-widgets.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type='text/javascript'>
-if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '2120213698440303768';BLOG_attachCsiOnload(''); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d2120213698440303768','//syndicatestream.com/','2120213698440303768');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '2120213698440303768', 'bloggerUrl': 'http://www.blogger.com', 'title': 'FinanceStock', 'pageType': 'index', 'url': 'http://syndicatestream.com/', 'canonicalUrl': 'http://syndicatestream.com/', 'canonicalHomepageUrl': 'http://syndicatestream.com/', 'homepageUrl': 'http://syndicatestream.com/', 'blogspotFaviconUrl': 'http://syndicatestream.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': '', 'pageTitle': 'FinanceStock', 'encoding': 'UTF-8', 'locale': 'en', 'localeLanguage': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42FinanceStock - Atom\42 href\75\42http://syndicatestream.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42FinanceStock - RSS\42 href\75\42http://syndicatestream.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42FinanceStock - Atom\42 href\75\42http://syndicatestream\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0752120213698440303768\42 /\076', 'meTag': '\74link rel\75\42me\42 href\75\42http://syndicatestream\42 /\76\n', 'openIdOpTag': '\74link rel\75\42openid.server\42 href\75\42http://www.blogger.com/openid-server.g\42 /\76\n\74link rel\75\42openid.delegate\42 href\75\42http://syndicatestream.com/\42 /\76\n', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,e\75\42jstiming\42,g\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){c\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[c,d]};this[g](\42start\42,null,a)}var a\75new d;b.jstiming\75{Timer:d,load:a};if(b.performance\46\46b.performance.timing){var a\75b.performance.timing,c\75b[e].load,f\75a.navigationStart,a\75a.responseStart;0\74f\46\46a\76\75f\46\46(c[g](\42_wtsrt\42,void 0,f),c[g](\42wtsrt_\42,\42_wtsrt\42,a),c[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,b.chrome\46\46b.chrome.csi\46\46(a\75Math.floor(b.chrome.csi().pageT),c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.chrome.csi().startE),\nc[g](\42tbnd_\42,\42_tbnd\42,f))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.external.startE),c[g](\42tbnd_\42,\42_tbnd\42,f))),a\46\46(b[e].pt\75a)}catch(l){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[e].load[g](\42aft\42)};var h\75!1;function k(){h||(h\75!0,b[e].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,k,!1):b.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/7b32dfe08d385af5', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'sidebartextcolor': '#666666', 'linkcolor': '#5588aa', 'visitedlinkcolor': '#999999', 'textcolor': '#333333', 'headerfont': 'normal normal 78% \47Trebuchet MS\47,Trebuchet,Arial,Verdana,Sans-serif', 'pagetitlefont': 'normal normal 200% Georgia, Serif', 'bgcolor': '#ffffff', 'descriptioncolor': '#999999', 'titlecolor': '#cc6600', 'bordercolor': '#cccccc', 'postfooterfont': 'normal normal 78% \47Trebuchet MS\47, Trebuchet, Arial, Verdana, Sans-serif', 'pagetitlecolor': '#666666', 'bodyfont': 'normal normal 100% Georgia, Serif', 'endSide': 'right', 'startSide': 'left', 'descriptionfont': 'normal normal 78% \47Trebuchet MS\47, Trebuchet, Arial, Verdana, Sans-serif', 'sidebarcolor': '#999999'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['Stream_templates_experiment_id'] = "templatesV1";window['Stream_blog_id'] = '2120213698440303768';BLOG_attachCsiOnload(''); }_WidgetManager._Init('//www.Stream.com/rearrange?blogID\x3d2120213698440303768','//syndicatestream.com/','2120213698440303768');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '2120213698440303768', 'StreamUrl': 'http://www.Stream.com', 'title': 'FinanceStock', 'pageType': 'index', 'url': 'http://syndicatestream.com/', 'canonicalUrl': 'http://syndicatestream.com/', 'canonicalHomepageUrl': 'http://syndicatestream.com/', 'homepageUrl': 'http://syndicatestream.com/', 'blogspotFaviconUrl': 'http://syndicatestream.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': '', 'pageTitle': 'FinanceStock', 'encoding': 'UTF-8', 'locale': 'en', 'localeLanguage': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42FinanceStock - Atom\42 href\75\42http://syndicatestream.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42FinanceStock - RSS\42 href\75\42http://syndicatestream.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42FinanceStock - Atom\42 href\75\42http://syndicatestream\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.Stream.com/rsd.g?blogID\0752120213698440303768\42 /\076', 'meTag': '\74link rel\75\42me\42 href\75\42http://syndicatestream\42 /\76\n', 'openIdOpTag': '\74link rel\75\42openid.server\42 href\75\42http://www.Stream.com/openid-server.g\42 /\76\n\74link rel\75\42openid.delegate\42 href\75\42http://syndicatestream.com/\42 /\76\n', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,e\75\42jstiming\42,g\75\42tick\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){c\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[c,d]};this[g](\42start\42,null,a)}var a\75new d;b.jstiming\75{Timer:d,load:a};if(b.performance\46\46b.performance.timing){var a\75b.performance.timing,c\75b[e].load,f\75a.navigationStart,a\75a.responseStart;0\74f\46\46a\76\75f\46\46(c[g](\42_wtsrt\42,void 0,f),c[g](\42wtsrt_\42,\42_wtsrt\42,a),c[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,b.chrome\46\46b.chrome.csi\46\46(a\75Math.floor(b.chrome.csi().pageT),c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.chrome.csi().startE),\nc[g](\42tbnd_\42,\42_tbnd\42,f))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,c\46\0460\74f\46\46(c[g](\42_tbnd\42,void 0,b.external.startE),c[g](\42tbnd_\42,\42_tbnd\42,f))),a\46\46(b[e].pt\75a)}catch(l){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[e].load[g](\42aft\42)};var h\75!1;function k(){h||(h\75!0,b[e].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,k,!1):b.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/7b32dfe08d385af5', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n'}}, {'name': 'skin', 'data': {'vars': {'sidebartextcolor': '#666666', 'linkcolor': '#5588aa', 'visitedlinkcolor': '#999999', 'textcolor': '#333333', 'headerfont': 'normal normal 78% \47Trebuchet MS\47,Trebuchet,Arial,Verdana,Sans-serif', 'pagetitlefont': 'normal normal 200% Georgia, Serif', 'bgcolor': '#ffffff', 'descriptioncolor': '#999999', 'titlecolor': '#cc6600', 'bordercolor': '#cccccc', 'postfooterfont': 'normal normal 78% \47Trebuchet MS\47, Trebuchet, Arial, Verdana, Sans-serif', 'pagetitlecolor': '#666666', 'bodyfont': 'normal normal 100% Georgia, Serif', 'endSide': 'right', 'startSide': 'left', 'descriptionfont': 'normal normal 78% \47Trebuchet MS\47, Trebuchet, Arial, Verdana, Sans-serif', 'sidebarcolor': '#999999'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
 _WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebartab1', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList8', 'pagelistmenusblog', null, document.getElementById('PageList8'), {'title': 'Pages - Menu', 'links': [{'href': 'http://syndicatestream.com/', 'title': 'Home', 'isCurrentPage': true}, {'href': 'http://syndicatestream.com/p/about.html', 'title': 'About', 'isCurrentPage': false}, {'href': 'http://syndicatestream.com/p/contact.html', 'title': 'Contact', 'isCurrentPage': false}], 'mobile': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label3', 'sidebartab2', null, document.getElementById('Label3'), {}, 'displayModeFull'));
@@ -1573,7 +1573,7 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebarrig
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebarright', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'header2', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': '//www.blogger.com/static/v1/jsbin/4050351478-lbx.js', 'lightboxCssUrl': '//www.blogger.com/static/v1/v-css/228702327-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': '//www.Stream.com/static/v1/jsbin/4050351478-lbx.js', 'lightboxCssUrl': '//www.Stream.com/static/v1/v-css/228702327-lightbox_bundle.css'}, 'displayModeFull'));
 </script>
 </body>
 </html>
