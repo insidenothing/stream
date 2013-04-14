@@ -1,1 +1,5 @@
-<img src="/assets/images/android.png">
+<link rel="icon" 
+      type="image/png" 
+      href="http://syndicatestream.com/assets/images/android.png">
+	  
+Settings Loaded for Android
