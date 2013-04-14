@@ -1544,11 +1544,10 @@ Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, s
 <div id='footer'>
 <div id='copyrights'>
 Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
-<a href='http://syndicatestream.com/'>FinanceStock</a> | Powered by <a href='http://www.Stream.com/'>Stream</a>
+<a href='http://syndicatestream.com/'>Syndicate Stream </a> | Powered by <a href='http://insidenothing.com/'>iN</a>
 </div>
 <div id='credits'>
-<!-- you don't have permission to remove or change these -->
-Design by <a href='http://newwpthemes.com/' target='_blank'>NewWpThemes</a> | Stream Theme by <a href='http://www.Streamtipandtrick.net/' target='_blank' title='Best Blogging Tutorials'>Lasantha</a> - <a href='http://www.premiumStreamtemplates.com/' target='_blank' title='Free Stream Templates'>Premium Stream Themes</a><br/><a href='http://newStreamthemes.com/' target='_blank' title='Best Stream Templates'>NewStreamThemes.com</a>
+Where will we go tomorrow?
 </div>
 </div><!-- #footer -->
 </div>
