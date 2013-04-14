@@ -699,7 +699,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class='header section' id='header'><div class='widget Header' id='Header1'>
 <div id='header-inner'>
 <a href='http://syndicatestream.com/' style='display: block'>
-<img alt='FinanceStock' height='40px; ' id='Header1_headerimg' src='http://2.bp.blogspot.com/-wnazYtMlnL8/URQdFvsJfVI/AAAAAAAACMQ/mZIuYWLMFMY/s1600/logo.png' style='display: block;padding-left:15px;padding-top:0px;' width='348px; '/>
+<img alt='FinanceStock' height='40px; ' id='Header1_headerimg' src='http://syndicatestream.com/logo.png' style='display: block;padding-left:15px;padding-top:0px;' width='348px; '/>
 </a>
 </div>
 </div></div>
