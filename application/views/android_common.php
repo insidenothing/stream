@@ -2,4 +2,4 @@
       type="image/png" 
       href="http://syndicatestream.com/assets/images/android.png">
 	  
-Settings Loaded for Android
+
