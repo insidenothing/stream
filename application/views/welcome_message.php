@@ -674,7 +674,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=PageList&widgetId=PageList8&action=editWidget&sectionId=pagelistmenusblog' onclick='return _WidgetManager._PopupConfig(document.getElementById("PageList8"));' target='configPageList8' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -711,7 +711,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=header2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' target='configHTML6' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1120,7 +1120,7 @@ Subscribe to:
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebartab1' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1150,7 +1150,7 @@ Subscribe to:
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=Label&widgetId=Label3&action=editWidget&sectionId=sidebartab2' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label3"));' target='configLabel3' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1194,7 +1194,7 @@ Subscribe to:
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebartab3' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1412,7 +1412,7 @@ Subscribe to:
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebarright' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1443,7 +1443,7 @@ jQuery('#rssdata').slideDown();
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebarright' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' target='configHTML5' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1486,7 +1486,7 @@ jQuery('#rssdata1').slideDown();
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=footersec1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1507,7 +1507,7 @@ jQuery('#rssdata1').slideDown();
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=footersec2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
@@ -1528,7 +1528,7 @@ Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, s
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
 <a class='quickedit' href='//www.Stream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footersec3' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Edit'>
-<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+<img alt='' height='18' src='http://syndicatestream.com/assets/images/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
 </span>
