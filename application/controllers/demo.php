@@ -52,7 +52,7 @@ class Demo extends CI_Controller {
 		$data['debug'] = $_SERVER['HTTP_USER_AGENT'];
 		
 		
-		$this->load->view('demo_message',$data);
+		$this->load->view('demo_view',$data);
 	}
 }
 
