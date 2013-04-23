@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Demo extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -52,7 +52,7 @@ class Welcome extends CI_Controller {
 		$data['debug'] = $_SERVER['HTTP_USER_AGENT'];
 		
 		
-		$this->load->view('welcome_message',$data);
+		$this->load->view('demo_message',$data);
 	}
 }
 
