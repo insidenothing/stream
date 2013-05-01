@@ -44,7 +44,7 @@ class Demo extends CI_Controller {
 			mail('insidenothing@gmail.com','syndicatestream android user',date('r').' from '.$_SERVER['REMOTE_ADDR']);
 			$this->load->view('android_common');
 		}else{
-			mail('insidenothing@gmail.com','syndicatestream desktop user',date('r').' from '.$_SERVER['REMOTE_ADDR']);
+			//mail('insidenothing@gmail.com','syndicatestream desktop user',date('r').' from '.$_SERVER['REMOTE_ADDR']);
 			$this->load->view('desktop_common');
 		}
 		
