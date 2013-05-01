@@ -18,7 +18,7 @@ c[g]("tbnd_","_tbnd",f))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null
 <link rel="openid.server" href="http://google.com" />
 <link rel="openid.delegate" href="http://syndicatestream.com/" />
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
-<title>Placeholder</title>
+<title>Syndicate Stream</title>
 <style id='page-skin-1' type='text/css'><!--
 /*
 -----------------------------------------------
