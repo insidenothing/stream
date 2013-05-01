@@ -770,6 +770,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 </div>
 <div style='clear:both;'></div>
+<?php /*
 <div id='content-wrapper'>
 <!-- Featured Content Slider Started -->
 <div class='fp-slider clearfix'>
@@ -888,6 +889,7 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 </div>
 <div style='clear:both;'></div>
 <!-- Featured Content Slider End -->
+*/ ?>
 <div id='crosscol-wrapper' style='text-align:center'>
 <div class='crosscol section' id='crosscol'></div>
 </div>
