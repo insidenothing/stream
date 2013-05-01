@@ -666,9 +666,9 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class='pagelistmenusblog section' id='pagelistmenusblog'><div class='widget PageList' id='PageList8'>
 <div class='widget-content'>
 <ul class='menus menu-primary'>
-<li id='currentpage'><a href='http://syndicatestream.com/'>Home</a></li>
-<li><a href='http://syndicatestream.com/p/about.html'>About</a></li>
-<li><a href='http://syndicatestream.com/p/contact.html'>Contact</a></li>
+<li id='currentpage'><a href='http://www.syndicatestream.com/'>Home</a></li>
+<!--<li><a href='http://syndicatestream.com/p/about.html'>About</a></li>
+<li><a href='http://syndicatestream.com/p/contact.html'>Contact</a></li>-->
 </ul>
 <div class='clear'></div>
 <span class='widget-item-control'>
