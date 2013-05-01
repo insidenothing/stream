@@ -936,7 +936,7 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
 <a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=8093313178999255057&from=pencil' title='Edit Post'>
-<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+
 </a>
 </span>
 </div></div>
@@ -972,7 +972,7 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
 <a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=8921239412520880503&from=pencil' title='Edit Post'>
-<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+
 </a>
 </span>
 </div></div>
@@ -1009,7 +1009,7 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
 <a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=7814775718246479986&from=pencil' title='Edit Post'>
-<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+
 </a>
 </span>
 </div></div>
@@ -1045,7 +1045,7 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
 <a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=4187622778596319924&from=pencil' title='Edit Post'>
-<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+
 </a>
 </span>
 </div></div>
@@ -1384,11 +1384,11 @@ Subscribe to:
     </div>
 	<div style="background: #E3EDF4;" id="email-news-subscribe">
 	    <div class="email-box">
-		    <form onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=btemplates', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify">	
+		    <form onsubmit="window.open('http://www.syndicatestream.com/sales', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify">	
 			    <input type="text" onblur="if(this.value==&#39;&#39;)this.value=this.defaultValue;" onfocus="if(this.value==this.defaultValue)this.value=&#39;&#39;;" value="Enter your email" name="email" id="email" style="width: 140px; font-size: 12px;" class="email" />		
 			    <input type="hidden" name="uri" value="btemplates" />
 			    <input type="hidden" value="en_US" name="loc" />
-			    <input type="submit" value="Subscribe" name="commit" class="subscribe" />	
+			    <input type="submit" value="New Members" name="commit" class="subscribe" />	
 		    </form>
 	    </div>
 	</div>
