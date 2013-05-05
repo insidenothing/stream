@@ -1,4 +1,4 @@
-<div style="padding:20px; padding-bottom:50px;">
+
 
 <div class="block" style="margin-top: 5px;">
 	<div class="block-border">
@@ -6,7 +6,7 @@
 			<h4 class="widgettitle"><?php echo $title;?></h4>
 			<div class="author">Written by <?php echo $author;?></div>
 			<div class="date"><?php echo $published;?></div>
-			<div class="widget widget_text" id="text-2"><img style="float:left;" src="http://syndicatestream.com/assets/images/floor.jpg" /><?php echo $contents;?></div>
+			<div class="widget widget_text" id="text-2"><?php echo $contents;?></div>
 		</div>
 	</div>
 </div>
@@ -27,5 +27,3 @@
 
 	
 <?php }?>
-
-</div>
