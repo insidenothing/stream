@@ -40,7 +40,7 @@
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=8093313178999255057&from=pencil' title='Edit Post'>
+<a href='http://www.syndicatestream.com/blog/edit/.g?blogID=2120213698440303768&postID=8093313178999255057&from=pencil' title='Edit Post'>
 
 </a>
 </span>
@@ -76,7 +76,7 @@
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=8921239412520880503&from=pencil' title='Edit Post'>
+<a href='http://www.syndicatestream.com/blog/edit/.g?blogID=2120213698440303768&postID=8921239412520880503&from=pencil' title='Edit Post'>
 
 </a>
 </span>
@@ -113,7 +113,7 @@
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=7814775718246479986&from=pencil' title='Edit Post'>
+<a href='http://www.syndicatestream.com/blog/edit/.g?blogID=2120213698440303768&postID=7814775718246479986&from=pencil' title='Edit Post'>
 
 </a>
 </span>
@@ -149,7 +149,7 @@
 <div class='post-footer-line post-footer-line-2'></div>
 <div class='post-footer-line post-footer-line-3'>
 <span class='item-control blog-admin pid-131095447'>
-<a href='http://www.syndicatestream.com/post-edit.g?blogID=2120213698440303768&postID=4187622778596319924&from=pencil' title='Edit Post'>
+<a href='http://www.syndicatestream.com/blog/edit/.g?blogID=2120213698440303768&postID=4187622778596319924&from=pencil' title='Edit Post'>
 
 </a>
 </span>
