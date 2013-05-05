@@ -769,8 +769,9 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 <div style='clear:both;'></div>
 
-<?php /*
+
 <div id='content-wrapper'>
+<?php /*
 <!-- Featured Content Slider Started -->
 <div class='fp-slider clearfix'>
 <div class='fp-slides-container clearfix'>
@@ -889,7 +890,7 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 <div style='clear:both;'></div>
 <!-- Featured Content Slider End -->
 */ ?>
-<div id='crosscol-wrapper' style='text-align:center; border:solid 5px #FFFF00;'>
+<div id='crosscol-wrapper' style='text-align:center'>
 <div class='crosscol section' id='crosscol'></div>
 </div>
 <div id='main-wrapper' style="border:solid 5px #FF0000;">
