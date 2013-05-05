@@ -893,4 +893,4 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 <div id='crosscol-wrapper' style='text-align:center'>
 <div class='crosscol section' id='crosscol'></div>
 </div>
-<div id='main-wrapper' style="border:solid 5px #FF0000;">
+<div id='main-wrapper'>
