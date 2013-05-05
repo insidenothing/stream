@@ -698,14 +698,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div id='header-wrapper'>
 <div class='header section' id='header'><div class='widget Header' id='Header1'>
 <div id='header-inner'>
-<a href='http://syndicatestream.com/' style='display: block'>
-<img alt='FinanceStock' height='40px; ' id='Header1_headerimg' src='http://syndicatestream.com/assets/images/logo.png' style='display: block;padding-left:15px;padding-top:0px;' width='348px; '/>
-</a>
+<a href='http://syndicatestream.com/' style='display: block'> Syndicate Stream </a>
 </div>
 </div></div>
 <div class='header section' id='header2'><div class='widget HTML' id='HTML6'>
 <div class='widget-content'>
-<a href='http://btemplates.com'><img src="http://lh3.googleusercontent.com/-u-L5QWjRF8U/TjAabYDxpfI/AAAAAAAAFrg/CY_D96zs7QU/d/cccccc%25255B1%25255D.png"  alt='Stream Templates' width='468' height='60' /></a>
+<a href='http://syndicatestream.com'><img src="http://syndicatestream.com/assets/images/floor.jpg"  alt='Stream Templates' width='468' height='60' /></a>
 </div>
 <div class='clear'></div>
 <span class='widget-item-control'>
