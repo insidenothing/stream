@@ -703,7 +703,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div></div>
 <div class='header section' id='header2'><div class='widget HTML' id='HTML6'>
 <div class='widget-content'>
-<a href='http://syndicatestream.com'><img src="http://syndicatestream.com/assets/images/floor.jpg"  alt='Stream Templates' width='468' height='260' /></a>
+<a href='http://syndicatestream.com'><img src="http://lh3.googleusercontent.com/-u-L5QWjRF8U/TjAabYDxpfI/AAAAAAAAFrg/CY_D96zs7QU/d/cccccc%25255B1%25255D.png"  alt='Stream Templates' width='468' height='60' /></a>
 </div>
 <div class='clear'></div>
 <span class='widget-item-control'>
