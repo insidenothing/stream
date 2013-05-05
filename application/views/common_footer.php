@@ -1,4 +1,4 @@
-
+</div>
 <div id='rsidebar-wrapper'>
 <div class='widget-container'>
 <div id='search' title='Type and hit enter'>
