@@ -1,4 +1,4 @@
-
+<div style="padding:20px; padding-bottom:50px;">
 
 <div class="block" style="margin-top: 5px;">
 	<div class="block-border">
@@ -27,3 +27,5 @@
 
 	
 <?php }?>
+
+</div>
