@@ -313,7 +313,7 @@
     </div>
 	<div style="background: #E3EDF4;" id="email-news-subscribe">
 	    <div class="email-box">
-		    <form onsubmit="window.open('http://www.syndicatestream.com/sales', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://feedburner.google.com/fb/a/mailverify">	
+		    <form onsubmit="window.open('http://www.syndicatestream.com/sales', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" target="popupwindow" method="post" action="http://www.syndicatestream.com/sales">	
 			    <input type="text" onblur="if(this.value==&#39;&#39;)this.value=this.defaultValue;" onfocus="if(this.value==this.defaultValue)this.value=&#39;&#39;;" value="Enter your email" name="email" id="email" style="width: 140px; font-size: 12px;" class="email" />		
 			    <input type="hidden" name="uri" value="btemplates" />
 			    <input type="hidden" value="en_US" name="loc" />
