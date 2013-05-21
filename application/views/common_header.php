@@ -700,7 +700,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div id='header-wrapper'>
 <div class='header section' id='header'><div class='widget Header' id='Header1'>
 <div id='header-inner'>
-<a href='http://syndicatestream.com/' style='display: block'> Syndicate Stream </a>
+<a href='http://syndicatestream.com/' style='display: block'><img src="/assets/images/new_logo1.png"></a>
 </div>
 </div></div>
 <div class='header section' id='header2'><div class='widget HTML' id='HTML6'>
