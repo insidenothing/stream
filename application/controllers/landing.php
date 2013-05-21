@@ -51,8 +51,9 @@ class Landing extends CI_Controller {
 		
 		$data['debug'] = $_SERVER['HTTP_USER_AGENT'];
 		
+		$this->load->library('Menu','menu');
+		$this->menu->load_common('home_view',$data);
 		
-		$this->load->view('home_view',$data);
 	}
 }
 
