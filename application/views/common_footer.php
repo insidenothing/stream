@@ -1,5 +1,5 @@
 </div>
-
+<!--
 <div style='clear:both;'></div>
 <div id='footer-widgets-container'>
 <div class='clearfix' id='footer-widgets'>
@@ -85,6 +85,10 @@ Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, s
 </div>
 </div>
 </div>
+
+-->
+
+
 <div style='clear:both;'></div>
 <div id='footer-container'>
 <div id='footer'>
