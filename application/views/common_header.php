@@ -660,6 +660,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </script></head>
 <body>
 <div id='body-wrapper'><div id='outer-wrapper'><div id='wrap2'>
+<!--
 <div class='span-24'>
 <div class='span-16'>
 <div class='menu-primary-container'>
@@ -668,7 +669,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <ul class='menus menu-primary'>
 <li id='currentpage'><a href='http://www.syndicatestream.com/'>Home</a></li>
 <!--<li><a href='http://syndicatestream.com/p/about.html'>About</a></li>
-<li><a href='http://syndicatestream.com/p/contact.html'>Contact</a></li>-->
+<li><a href='http://syndicatestream.com/p/contact.html'>Contact</a></li>-- >
 </ul>
 <div class='clear'></div>
 <span class='widget-item-control'>
@@ -694,6 +695,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 </div>
 </div>
+-->
 <div style='clear:both;'></div>
 <div id='header-wrapper'>
 <div class='header section' id='header'><div class='widget Header' id='Header1'>
