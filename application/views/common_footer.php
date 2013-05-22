@@ -94,7 +94,7 @@ Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, s
 <div id='footer'>
 <div id='copyrights'>
 Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
-<a href='http://syndicatestream.com/'>Syndicate Stream </a> | Powered by <a href='http://insidenothing.com/'>iN</a>
+<a href='http://syndicatestream.com/'>Syndicate Stream </a> | Powered by <a href='mailto://patrick@insidenothing.com'>iN</a>
 </div>
 <div id='credits'>
 Where will we go tomorrow?
