@@ -1,12 +1,29 @@
  <div class="block" style="margin-bottom: 15px;">
 	<div class="block-border">
 		<div class="block-content">
-			<h4 class="widgettitle">At SyndicateStream,</h4>
+			<h4 class="widgettitle">SyndicateStream Pricing</h4>
 			<div class="widget widget_text" id="text-2">
-			<table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;we know what matters most to you, risk. 
-			With us you have a set of ears at every desk on the street.
- Our relationships and proprietary analysis give you unparalleled transparency to the syndicate calendar.
- We give you the tools to manage your risk the most efficiently. You know it as it happens. The streaming edge.<br /><br /><br /><img src="/assets/images/begin.png">
+			<table><tr><td>Basic: 24.99
+
+ <br /><br /><br />
+
+Includes timing and deal size, structure, underwriters and economics, and the SyndicateStream heat rating.
+<br /><br /><br />
+ 
+
+Advanced: 39.99
+
+ <br /><br /><br />
+
+All of the above plus book color updated throughout the day as we hear it, comparative financials to industry peers, and concessions if available.
+<br /><br /><br />
+ 
+
+Institutional: Call us for Pricing
+<br /><br /><br />
+ 
+
+Fixed Income: Call us for Pricing<br /><br /><br /><img src="/assets/images/begin.png">
 			</td><td>
 			[login box]
 			
