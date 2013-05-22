@@ -3,7 +3,7 @@
 		<div class="block-content">
 			<h4 class="widgettitle">SyndicateStream Pricing</h4>
 			<div class="widget widget_text" id="text-2">
-			Basic: 24.99
+			Basic: 24.99 [get html for subscription form and insert here]
 
  <br /><br /><br />
 
@@ -11,7 +11,7 @@ Includes timing and deal size, structure, underwriters and economics, and the Sy
 <br /><br /><br />
  
 
-Advanced: 39.99
+Advanced: 39.99 [get html for subscription form and insert here]
 
  <br /><br /><br />
 
@@ -23,7 +23,7 @@ Institutional: Call us for Pricing
 <br /><br /><br />
  
 
-Fixed Income: Call us for Pricing<br /><br /><br /><img src="/assets/images/begin.png">
+Fixed Income: Call us for Pricing<br /><br /><br />
 			</div>
 		</div>
 	</div>

@@ -7,7 +7,7 @@
  <br /><br /><br />
  
 
-From basic analysis for short term investors to trading strategies and detailed fundamental and technical analysis for long term fund managers we have you covered. <br /><br /><br /><img src="/assets/images/begin.png">
+From basic analysis for short term investors to trading strategies and detailed fundamental and technical analysis for long term fund managers we have you covered. <br /><br /><br /><a href="/pricing"><img src="/assets/images/begin.png"></a>
 			
 			</div>
 		</div>
