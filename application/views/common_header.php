@@ -726,6 +726,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <li><a href='http://syndicatestream.com/landing'>Home</a></li>
 <li><a href='http://syndicatestream.com/about_us'>About Us</a></li>
 <li><a href='http://syndicatestream.com/pricing'>Pricing</a></li>
+<li><a href='http://syndicatestream.com/login'>Log In</a></li>
 <!--<li><a href='#'>Business</a>
 <ul class='children'>
 <li><a href='#'>Internet</a></li>
