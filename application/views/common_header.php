@@ -93,7 +93,7 @@ a img{border-width:0}
 #body-wrapper{margin:0px;padding:0px;}
 /* Header-----------------------------------------------*/
 #header-wrapper{width:960px;margin:0px auto 0px;height:60px;padding:30px 0px 30px 0px;overflow:hidden;}
-#header-inner{background-position:center;margin-left:auto;margin-right:auto;padding-left:30px;position:relative;top:-10px}
+#header-inner{background-position:center;margin-left:auto;margin-right:auto;padding-left:30px;position:relative;top:-10px;z-index:10;}
 #header{margin:0;border:0 solid #cccccc;color:#666666;float:left;width:48%;overflow:hidden;}
 #header h1{color:#424242;text-shadow:0px 1px 0px #fff;margin:0 5px 0;padding:0px 0px 0px 15px;font-family:&#39;Oswald&#39;,Arial,Helvetica,Sans-serif;font-weight:bold;font-size:32px;line-height:32px;}
 #header .description{padding-left:22px;color:#424242;text-shadow:0px 1px 0px #fff;line-height:14px;font-size:14px;padding-top:0px;margin-top:10px;font-family:Arial,Helvetica,Sans-serif;}
