@@ -97,7 +97,7 @@ Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();doc
 <a href='http://syndicatestream.com/'>Syndicate Stream </a> | Powered by <a href='mailto://patrick@insidenothing.com'>iN</a>
 </div>
 <div id='credits'>
-<input name="email" value="E-Mail Address" onclick="this.value='';"> <input name="password" onclick="this.value='';"> <input type="submit" value="Log In"> 
+<input name="email" value="E-Mail Address" onclick="this.value='';"> <input name="password" value="Password" onclick="this.value='';"> <input type="submit" value="Log In"> 
 </div>
 </div><!-- #footer -->
 </div>
