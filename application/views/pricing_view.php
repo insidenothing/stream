@@ -3,7 +3,7 @@
 		<div class="block-content">
 			<h4 class="widgettitle">SyndicateStream Pricing</h4>
 			<div class="widget widget_text" id="text-2">
-			<table><tr><td>Basic: 24.99
+			Basic: 24.99
 
  <br /><br /><br />
 
@@ -24,10 +24,6 @@ Institutional: Call us for Pricing
  
 
 Fixed Income: Call us for Pricing<br /><br /><br /><img src="/assets/images/begin.png">
-			</td><td>
-			[login box]
-			
-			</td></tr></table>	
 			</div>
 		</div>
 	</div>
