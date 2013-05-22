@@ -110,7 +110,7 @@ a img{border-width:0}
 /* Outer-Wrapper----------------------------------------------- */
 #outer-wrapper{width:960px;margin:15px auto 0px;padding:0px;text-align:left;background:url(http://2.bp.blogspot.com/-OfL7G6BSZ4A/URQb0FIwdbI/AAAAAAAACIw/bRKeGl7DpE8/s000/container-bg.png) left top repeat-x;}
 #content-wrapper{background:#fff;padding:15px;}
-#main-wrapper{width:615px;float:left;margin:0px;padding:10px 10px 10px 10px;word-wrap:break-word;overflow:hidden;background:url(/assets/images/paperwork.png)}
+#main-wrapper{width:900px;float:left;margin:0px;padding:10px 10px 10px 10px;word-wrap:break-word;overflow:hidden;background:url(/assets/images/paperwork.png)}
 #rsidebar-wrapper{width:301px;float:right;margin:0px;padding:0px 0px 0px 0px;word-wrap:break-word;overflow:hidden;}
 /* Headings----------------------------------------------- */
 h2{}
@@ -724,6 +724,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class='menu-secondary-container'>
 <ul class='menus menu-secondary'>
 <li><a href='http://syndicatestream.com/'>Home</a></li>
+<li><a href='http://syndicatestream.com/'>About Us</a></li>
+<li><a href='http://syndicatestream.com/'>Pricing</a></li>
 <!--<li><a href='#'>Business</a>
 <ul class='children'>
 <li><a href='#'>Internet</a></li>
