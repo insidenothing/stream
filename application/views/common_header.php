@@ -92,7 +92,7 @@ a:hover{color:#7FD411;text-decoration:none;outline:none;}
 a img{border-width:0}
 #body-wrapper{margin:0px;padding:0px;}
 /* Header-----------------------------------------------*/
-#header-wrapper{width:960px;margin:0px auto 0px;height:70px;padding:30px 0px 30px 0px;overflow:hidden;}
+#header-wrapper{width:960px;margin:0px auto 0px;height:60px;padding:30px 0px 30px 0px;overflow:hidden;}
 #header-inner{background-position:center;margin-left:auto;margin-right:auto;padding-left:30px;position:relative;top:-10px;}
 #header{margin:0;border:0 solid #cccccc;color:#666666;float:left;width:48%;overflow:hidden;}
 #header h1{color:#424242;text-shadow:0px 1px 0px #fff;margin:0 5px 0;padding:0px 0px 0px 15px;font-family:&#39;Oswald&#39;,Arial,Helvetica,Sans-serif;font-weight:bold;font-size:32px;line-height:32px;}
@@ -695,12 +695,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 </div>
 </div>
--->
+--><input name="email" value="E-Mail Address" onclick="this.value='';"> <input value="Password" name="password" onclick="this.value='';"> <input type="submit" value="Log In"> 
 <div style='clear:both;'></div>
 <div id='header-wrapper'>
 <div class='header section' id='header'><div class='widget Header' id='Header1'>
 <div id='header-inner'>
-<input name="email" value="E-Mail Address" onclick="this.value='';"> <input value="Password" name="password" onclick="this.value='';"> <input type="submit" value="Log In"> 
+
 </div>
 </div></div>
 <div class='header section' id='header2'><div class='widget HTML' id='HTML6'>
