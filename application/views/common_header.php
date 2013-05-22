@@ -699,7 +699,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div style='clear:both;'></div>
 <div id='header-wrapper'>
 
-<input name="email" value="E-Mail Address" onclick="this.value='';"> <input name="password" onclick="this.value='';"> <input type="submit" value="Log In"> 
+
 
 
 <div class='header section' id='header'><div class='widget Header' id='Header1'>
