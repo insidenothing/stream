@@ -723,11 +723,13 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 
 
 
-
+xxx1xxx
 
 <div class='clear'></div>
-</div></div>
+xxx2xxx
+</div>xxx3xxx</div>
 <div style='clear:both;'></div>
+xxx4xxx
 </div>
 
 
@@ -754,8 +756,8 @@ fcontent[1]="Dynamic Drive has been featured on Jars as a top 5% resource, and A
 fcontent[2]="Ok, enough with these pointless messages. You get the idea behind this script.</a>";
 closetag='</div>';
 
-var fwidth='500px'; //set scroller width
-var fheight='25px'; //set scroller height
+var fwidth='700px'; //set scroller width
+var fheight='50px'; //set scroller height
 
 var fadelinks=1;  //should links inside scroller content also fade like text? 0 for no, 1 for yes.
 
