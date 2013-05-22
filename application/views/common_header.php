@@ -93,7 +93,7 @@ a img{border-width:0}
 #body-wrapper{margin:0px;padding:0px;}
 /* Header-----------------------------------------------*/
 #header-wrapper{width:960px;margin:0px auto 0px;height:60px;padding:30px 0px 30px 0px;overflow:hidden;}
-#header-inner{background-position:center;margin-left:auto;margin-right:auto}
+#header-inner{background-position:center;margin-left:auto;margin-right:auto;padding-left:30px;padding-bottom:15px;}
 #header{margin:0;border:0 solid #cccccc;color:#666666;float:left;width:48%;overflow:hidden;}
 #header h1{color:#424242;text-shadow:0px 1px 0px #fff;margin:0 5px 0;padding:0px 0px 0px 15px;font-family:&#39;Oswald&#39;,Arial,Helvetica,Sans-serif;font-weight:bold;font-size:32px;line-height:32px;}
 #header .description{padding-left:22px;color:#424242;text-shadow:0px 1px 0px #fff;line-height:14px;font-size:14px;padding-top:0px;margin-top:10px;font-family:Arial,Helvetica,Sans-serif;}
@@ -110,7 +110,7 @@ a img{border-width:0}
 /* Outer-Wrapper----------------------------------------------- */
 #outer-wrapper{border:solid 1px #7ACE10;width:960px;margin:15px auto 0px;padding:0px;text-align:left;background:url(http://2.bp.blogspot.com/-OfL7G6BSZ4A/URQb0FIwdbI/AAAAAAAACIw/bRKeGl7DpE8/s000/container-bg.png) left top repeat-x;}
 #content-wrapper{border:solid 0px #FF0000;background:#fff;padding:15px;}
-#main-wrapper{border:solid 0px #000000;width:910px;float:left;margin:0px;padding:10px 5px 10px 10px;word-wrap:break-word;overflow:hidden;background:url(/assets/images/paperwork.png);background-repeat:no-repeat;}
+#main-wrapper{border:solid 0px #000000;width:910px !important;float:left;margin:0px;padding:10px 5px 10px 10px;word-wrap:break-word;overflow:hidden;background:url(/assets/images/paperwork.png);background-repeat:no-repeat;}
 #rsidebar-wrapper{width:301px;float:right;margin:0px;padding:0px 0px 0px 0px;word-wrap:break-word;overflow:hidden;}
 /* Headings----------------------------------------------- */
 h2{}
