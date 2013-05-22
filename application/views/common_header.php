@@ -110,7 +110,7 @@ a img{border-width:0}
 /* Outer-Wrapper----------------------------------------------- */
 #outer-wrapper{border:solid 1px #7ACE10;width:960px;margin:15px auto 0px;padding:0px;text-align:left;background:url(http://2.bp.blogspot.com/-OfL7G6BSZ4A/URQb0FIwdbI/AAAAAAAACIw/bRKeGl7DpE8/s000/container-bg.png) left top repeat-x;}
 #content-wrapper{border:solid 0px #FF0000;background:#fff;padding:15px;}
-#main-wrapper{border:solid 0px #000000;width:910px !important;float:left;margin:0px;padding:10px 5px 10px 10px;word-wrap:break-word;overflow:hidden;background:url(/assets/images/paperwork.png);background-repeat:no-repeat;}
+#main-wrapper{border:solid 0px #000000;width:915px !important;float:left;margin:0px;padding:10px 0px 10px 10px;word-wrap:break-word;overflow:hidden;background:url(/assets/images/paperwork.png);background-repeat:no-repeat;}
 #rsidebar-wrapper{width:301px;float:right;margin:0px;padding:0px 0px 0px 0px;word-wrap:break-word;overflow:hidden;}
 /* Headings----------------------------------------------- */
 h2{}
