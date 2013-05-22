@@ -724,6 +724,12 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 
 
 
+
+<div class='clear'></div>
+
+</div></div>
+<div style='clear:both;'></div>
+
 <script type="text/javascript">
 
 /***********************************************
@@ -831,12 +837,6 @@ else if (document.getElementById)
 window.onload=changecontent
 
 </script>
-
-<div class='clear'></div>
-
-</div></div>
-<div style='clear:both;'></div>
-
 </div>
 
 
