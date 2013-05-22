@@ -746,10 +746,10 @@ var startcolor= new Array(255,255,255); // start color (red, green, blue)
 var endcolor=new Array(0,0,0); // end color (red, green, blue)
 
 var fcontent=new Array();
-begintag='<div style="font: normal 14px Arial; padding: 5px;">'; //set opening tag, such as font declarations
-fcontent[0]="<b>What\'s new?</b><br>New scripts added to the Scroller category!<br><br>The MoreZone has been updated. <a href='../morezone/index.htm'>Click here to visit</a>";
-fcontent[1]="Dynamic Drive has been featured on Jars as a top 5% resource, and About.com as a recommended DHTML destination.";
-fcontent[2]="Ok, enough with these pointless messages. You get the idea behind this script.</a>";
+begintag='<div style="font: normal 12px Arial; padding: 5px;">'; //set opening tag, such as font declarations
+fcontent[0]="<b>Welcome Ian and Doug!</b><br>I think this may be close to what you are looking for.";
+fcontent[1]="I really wanted to simplify it as much as possible.";
+fcontent[2]="Let me know if there is something you want brought back to a specific location.</a>";
 closetag='</div>';
 
 var fwidth='700px'; //set scroller width
@@ -827,7 +827,7 @@ function getstepcolor(step) {
 }
 
 if (ie4||DOM2)
-  document.write('<div id="fscroller" style="border:1px solid black;width:'+fwidth+';height:'+fheight+'"></div>');
+  document.write('<div id="fscroller" style="border:0px solid black;width:'+fwidth+';height:'+fheight+'"></div>');
 
 if (window.addEventListener)
 window.addEventListener("load", changecontent, false)
