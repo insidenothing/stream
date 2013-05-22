@@ -723,9 +723,9 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class='span-24'>
 <div class='menu-secondary-container'>
 <ul class='menus menu-secondary'>
-<li><a href='http://syndicatestream.com/'>Home</a></li>
-<li><a href='http://syndicatestream.com/'>About Us</a></li>
-<li><a href='http://syndicatestream.com/'>Pricing</a></li>
+<li><a href='http://syndicatestream.com/landing'>Home</a></li>
+<li><a href='http://syndicatestream.com/about_us'>About Us</a></li>
+<li><a href='http://syndicatestream.com/pricing'>Pricing</a></li>
 <!--<li><a href='#'>Business</a>
 <ul class='children'>
 <li><a href='#'>Internet</a></li>
