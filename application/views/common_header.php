@@ -700,7 +700,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div id='header-wrapper'>
 <div class='header section' id='header'><div class='widget Header' id='Header1'>
 <div id='header-inner'>
-
+<input name="email"> <input name="password"> <input type="submit" value="Log In"> 
 </div>
 </div></div>
 <div class='header section' id='header2'><div class='widget HTML' id='HTML6'>
