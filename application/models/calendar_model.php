@@ -105,71 +105,71 @@ class Calendar_model extends CI_Model {
 				</td>
 			</tr>
 			<tr>
-				<td align="center" bgcolor="#CC9900">S</td>
-				<td align="center" bgcolor="#FFCC00">M</td>
-				<td align="center" bgcolor="#FFCC00">T</td>
-				<td align="center" bgcolor="#FFCC00">W</td>
-				<td align="center" bgcolor="#FFCC00">T</td>
-				<td align="center" bgcolor="#FFCC00">F</td>
-				<td align="center" bgcolor="#CC9900">S</td>
+				<td style="margin:0px;padding:0px;" align="center" bgcolor="#CC9900">S</td>
+				<td style="margin:0px;padding:0px;" align="center" bgcolor="#FFCC00">M</td>
+				<td style="margin:0px;padding:0px;" align="center" bgcolor="#FFCC00">T</td>
+				<td style="margin:0px;padding:0px;" align="center" bgcolor="#FFCC00">W</td>
+				<td style="margin:0px;padding:0px;" align="center" bgcolor="#FFCC00">T</td>
+				<td style="margin:0px;padding:0px;" align="center" bgcolor="#FFCC00">F</td>
+				<td style="margin:0px;padding:0px;" align="center" bgcolor="#CC9900">S</td>
 			</tr>
 			<tr>
-				<td valign="top" class="weekend"><?PHP echo $block['1'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['2'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['3'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['4'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['5'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['6'];?></td>
-				<td valign="top" class="weekend"><?PHP echo $block['7'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['1'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['2'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['3'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['4'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['5'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['6'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['7'];?></td>
 			</tr>
 			<tr>
-				<td valign="top" class="weekend"><?PHP echo $block['8'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['9'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['10'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['11'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['12'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['13'];?></td>
-				<td valign="top" class="weekend"><?PHP echo $block['14'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['8'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['9'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['10'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['11'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['12'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['13'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['14'];?></td>
 			</tr>
 			<tr>
-				<td valign="top" class="weekend"><?PHP echo $block['15'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['16'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['17'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['18'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['19'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['20'];?></td>
-				<td valign="top" class="weekend"><?PHP echo $block['21'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['15'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['16'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['17'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['18'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['19'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['20'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['21'];?></td>
 			</tr>
 			<tr>
-				<td valign="top" class="weekend"><?PHP echo $block['22'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['23'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['24'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['25'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['26'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['27'];?></td>
-				<td valign="top" class="weekend"><?PHP echo $block['28'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['22'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['23'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['24'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['25'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['26'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['27'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['28'];?></td>
 			</tr>
 			<tr>
-				<td valign="top" class="weekend"><?PHP echo $block['29'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['30'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['31'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['32'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['33'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['34'];?></td>
-				<td valign="top" class="weekend"><?PHP echo $block['35'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['29'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['30'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['31'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['32'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['33'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['34'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['35'];?></td>
 			</tr>
 		<?PHP
 		//--------( if a day exists in block 36 to 42 we must display this row )-----------------
 		if ($block['36']){
 		?>
 			<tr>
-				<td valign="top" class="weekend"><?PHP echo $block['36'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['37'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['38'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['39'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['40'];?></td>
-				<td valign="top" class="weekday"><?PHP echo $block['41'];?></td>
-				<td valign="top" class="weekend"><?PHP echo $block['42'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['36'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['37'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['38'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['39'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['40'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekday"><?PHP echo $block['41'];?></td>
+				<td style="margin:0px;padding:0px;" valign="top" class="weekend"><?PHP echo $block['42'];?></td>
 			</tr>
 		<?PHP } ?>
 		</table>
