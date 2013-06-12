@@ -15,4 +15,4 @@
 	</div>
 </div>
  
-  
+  <small><?PHP echo $debug; ?></small>

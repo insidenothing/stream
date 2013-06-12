@@ -31,7 +31,7 @@ class Landing extends CI_Controller {
 			return (strpos($user_agent, 'Android') !== FALSE);
 		}
 	 
-	public function index()
+	public function index($year='',$month='',$day='')
 	{
 		
 		
@@ -49,7 +49,7 @@ class Landing extends CI_Controller {
 		}
 		
 		
-		$data['debug'] = $_SERVER['HTTP_USER_AGENT'];
+		$data['debug'] = "$year,$month,$day";
 		
 		$this->load->library('Menu','menu');
 		$this->load->model('calendar_model','calendar');
