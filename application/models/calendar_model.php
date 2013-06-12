@@ -98,20 +98,20 @@ class Calendar_model extends CI_Model {
 		.today {background-color:#FFFFFF;}
 		</style>
 		-->
-		<table width="10px" cellpadding="2" style="border-collapse:collapse" border="1" bgcolor="#FFFFFF">
+		<table width="10px" cellpadding="0" style="border-collapse:collapse" border="1" bgcolor="#FFFFFF">
 			<tr>
 				<td colspan="7" class="weekend">
 						<strong><?=date("F Y");?></strong> [<?PHP echo $block['lastmonth'];?>] [<?PHP echo $block['nextmonth'];?>]</div></td>
 				</td>
 			</tr>
 			<tr>
-				<td align="center" bgcolor="#CC9900">Su</td>
-				<td align="center" bgcolor="#FFCC00">Mo</td>
-				<td align="center" bgcolor="#FFCC00">Tu</td>
-				<td align="center" bgcolor="#FFCC00">We</td>
-				<td align="center" bgcolor="#FFCC00">Th</td>
-				<td align="center" bgcolor="#FFCC00">Fr</td>
-				<td align="center" bgcolor="#CC9900">Sa</td>
+				<td align="center" bgcolor="#CC9900">S</td>
+				<td align="center" bgcolor="#FFCC00">M</td>
+				<td align="center" bgcolor="#FFCC00">T</td>
+				<td align="center" bgcolor="#FFCC00">W</td>
+				<td align="center" bgcolor="#FFCC00">T</td>
+				<td align="center" bgcolor="#FFCC00">F</td>
+				<td align="center" bgcolor="#CC9900">S</td>
 			</tr>
 			<tr>
 				<td valign="top" class="weekend"><?PHP echo $block['1'];?></td>
