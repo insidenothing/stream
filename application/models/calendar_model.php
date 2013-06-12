@@ -30,16 +30,16 @@ class Calendar_model extends CI_Model {
 			return ;
 		}
 	}
-	function calendar(){
+	function calendar($offset=''){
 		ob_start();
 		if (isset($_COOKIE['name'])){
 			$user=$_COOKIE['name'];
 		}else{
 			$user = "Guest";
 		}
-		$day = date('d',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
-		$month = date('m',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
-		$year = date('Y',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
+		$day = date('d',mktime(0, 0, 0, date("m")+$offset, date("d"),  date("Y")));
+		$month = date('m',mktime(0, 0, 0, date("m")+$offset, date("d"),  date("Y")));
+		$year = date('Y',mktime(0, 0, 0, date("m")+$offset, date("d"),  date("Y")));
 		$difference = date('w',mktime(0,0,0,$month,1,$year));
 		//---------------( compile array )----------------------------------
 		$block = array(

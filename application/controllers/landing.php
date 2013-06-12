@@ -53,7 +53,8 @@ class Landing extends CI_Controller {
 		
 		$this->load->library('Menu','menu');
 		$this->load->model('calendar_model','calendar');
-		$data['calendar_this_month'] = $this->calendar->calendar();
+		$data['calendarA'] = $this->calendar->calendar();
+		$data['calendarB'] = $this->calendar->calendar(1);
 		$this->menu->load_common('home_view',$data);
 		
 	}
