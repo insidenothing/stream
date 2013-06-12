@@ -1,4 +1,4 @@
- <center><?PHP echo $calendar; ?></center>
+ <center><?PHP echo $calendar_this_month; ?></center>
  
  <div class="block" style="margin-bottom: 15px;">
 	<div class="block-border">
