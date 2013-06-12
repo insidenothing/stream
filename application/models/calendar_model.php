@@ -91,12 +91,13 @@ class Calendar_model extends CI_Model {
 						);
 		//---------------( write html )----------------------------------
 		?>
+		<!--
 		<style>
 		.weekday {background-color:#99CCFF;}
 		.weekend {background-color:#999999;}
 		.today {background-color:#FFFFFF;}
-
 		</style>
+		-->
 		<table width="10px" cellpadding="2" style="border-collapse:collapse" border="1" bgcolor="#FFFFFF">
 			<tr>
 				<td colspan="7" class="weekend">
