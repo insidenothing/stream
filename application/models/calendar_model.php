@@ -98,7 +98,7 @@ class Calendar_model extends CI_Model {
 		.today {background-color:#FFFFFF;}
 		</style>
 		-->
-		<table cellpadding="0" style="border-collapse:collapse; font-size:12px;" border="1">
+		<table cellpadding="0" cellspacing="0" style="border-collapse:collapse; font-size:12px; margin:0px;padding:0px;" border="1">
 			<tr>
 				<td colspan="7" class="weekend">
 						<strong><?php echo date("F Y", mktime(0, 0, 0, date("m")+$offset, date("d"),  date("Y")));?></strong> [<?PHP echo $block['lastmonth'];?>] [<?PHP echo $block['nextmonth'];?>]</div></td>
