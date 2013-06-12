@@ -1,4 +1,4 @@
- <center><?PHP echo $calendarA; ?><?PHP echo $calendarB; ?></center>
+ <center><table><tr><td><?PHP echo $calendarA; ?></td><td><?PHP echo $calendarB; ?></td></tr></table></center>
  
  <div class="block" style="margin-bottom: 15px;">
 	<div class="block-border">
