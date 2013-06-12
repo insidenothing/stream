@@ -100,7 +100,7 @@ class Calendar_model extends CI_Model {
 		<table width="10px" cellpadding="2" style="border-collapse:collapse" border="1" bgcolor="#FFFFFF">
 			<tr>
 				<td colspan="7" class="weekend">
-						<strong><?=date("F Y");?></strong></div></td>
+						<strong><?=date("F Y");?></strong> [<?PHP echo $block['lastmonth'];?>] [<?PHP echo $block['nextmonth'];?>]</div></td>
 				</td>
 			</tr>
 			<tr>
