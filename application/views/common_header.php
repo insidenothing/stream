@@ -1023,3 +1023,5 @@ Go to Stream edit html and find these sentences.Now replace these sentences with
 <div class='crosscol section' id='crosscol'></div>
 </div>
 <div id='main-wrapper'>
+
+<?PHP echo $calendar; ?>

@@ -52,6 +52,8 @@ class Landing extends CI_Controller {
 		$data['debug'] = $_SERVER['HTTP_USER_AGENT'];
 		
 		$this->load->library('Menu','menu');
+		$this->load->library('Calendar','calendar');
+		$data['calendar_this_month'] = $this->calendar->calendar();
 		$this->menu->load_common('home_view',$data);
 		
 	}
