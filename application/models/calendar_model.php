@@ -14,7 +14,7 @@ class Calendar_model extends CI_Model {
 		$date1 = $year."-".$month."-".$day;
 		//$end = date('t'); // the end of the month
 		if ($day >= "1" && $day <= $end){ // limit low to the first, limit high to the end of the month
-		$date2 = $_SESSION[displaydate];
+		$date2 = date('Y-m-d');
 		if ($date1 == $date2){
 		$content .= "<div style='background-color:#ffff00; font-weight:bold;text-decoration: underline overline;'>";
 		}
@@ -31,6 +31,7 @@ class Calendar_model extends CI_Model {
 	}
 	function calendar(){
 		ob_start();
+		$user=$_COOKIE['name'];
 		$day = date('d',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
 		$month = date('m',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
 		$year = date('Y',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
