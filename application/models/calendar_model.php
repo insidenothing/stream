@@ -9,6 +9,7 @@ class Calendar_model extends CI_Model {
 	}
 	
 	function fillblock($block, $difference, $month, $year, $user, $end){ // cal1, cal2, cal3
+		$content='';
 		$day = $block - $difference;
 		if ($day < 10){ $day = "0".$day; }
 		$date1 = $year."-".$month."-".$day;
@@ -31,7 +32,11 @@ class Calendar_model extends CI_Model {
 	}
 	function calendar(){
 		ob_start();
-		$user=$_COOKIE['name'];
+		if (isset($_COOKIE['name'])){
+			$user=$_COOKIE['name'];
+		}else{
+			$user = "Guest";
+		}
 		$day = date('d',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
 		$month = date('m',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
 		$year = date('Y',mktime(0, 0, 0, date("m"), date("d"),  date("Y")));
