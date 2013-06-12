@@ -1,3 +1,5 @@
+ <center><?PHP echo $calendar; ?></center>
+ 
  <div class="block" style="margin-bottom: 15px;">
 	<div class="block-border">
 		<div class="block-content">
