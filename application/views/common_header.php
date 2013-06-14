@@ -697,7 +697,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div>
 -->
 <div style='clear:both;'></div>
-000
+<img src="/assets/images/banner.png">
 <!--
 <div id='header-wrapper'>
 
@@ -733,8 +733,8 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 
 666
 <div style='clear:both;'></div>
--->
-777
+
+
 <script type="text/javascript">
 
 /***********************************************
@@ -844,7 +844,7 @@ window.onload=changecontent
 </script>
 </div>
 
-
+-->
 
 
 
