@@ -1,92 +1,4 @@
 </div>
-<!--
-<div style='clear:both;'></div>
-<div id='footer-widgets-container'>
-<div class='clearfix' id='footer-widgets'>
-<div class='footer-widget-box'>
-<ul class='widget-container'>
-<li>
-<div class='footersec section' id='footersec1'><div class='widget HTML' id='HTML4'>
-<h2 class='title'>Stream news</h2>
-<div class='widget-content'>
-<script type="text/javascript">if(typeof jQuery == 'undefined'){document.write("<scr" + "ipt type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js'></scr" + "ipt>");}</script>
-<ul id="rssdata1" style="display:none;"></ul><div id="rssloading1">Loading...</div>
-<script type="text/javascript">
-
-jQuery.noConflict();
-
-if( ! jQuery().jGFeed ) { (function(jQuery){jQuery.extend({jGFeed:function(url,fnk,num,key){if(url==null){return false;}var gurl="http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&callback=?&q="+url;if(num!=null){gurl+="&num="+num;}if(key!=null){gurl+="&key="+key;}jQuery.getJSON(gurl,function(data){if(typeof fnk=="function"){fnk.call(this,data.responseData.feed);}else{return false;}});}});})(jQuery); }
-jQuery.jGFeed('http://blog.btemplates.com/feed/',
-function(feeds){
-if(!feeds){return false;}
-for (var i=0; i < feeds.entries.length; i++) {
-	var item = feeds.entries[i];
-	var item_html = '<li><a href="'+item.link+'">'+item.title+'</a></li>';
-	jQuery('#rssdata1').append(item_html);
-}
-jQuery('#rssloading1').fadeOut();
-jQuery('#rssdata1').slideDown();
-}, 5);</script>
-</div>
-<div class='clear'></div>
-<span class='widget-item-control'>
-<span class='item-control blog-admin'>
-<a class='quickedit' href='//www.syndicatestream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=footersec1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Edit'>
-
-</a>
-</span>
-</span>
-<div class='clear'></div>
-</div></div>
-</li>
-</ul>
-</div>
-<div class='footer-widget-box'>
-<ul class='widget-container'>
-<li>
-<div class='footersec section' id='footersec2'><div class='widget HTML' id='HTML3'>
-<h2 class='title'>Blogroll</h2>
-<div class='widget-content'>
-<ul><li><a href="http://btemplates.com" title="Stream templates">BTemplates</a></li><li><a href="http://blog.btemplates.com">BTemplates Blog</a></li><li><a href="http://www.premiumStreamtemplates.com/">PBTemplates</a></li></ul>
-</div>
-<div class='clear'></div>
-<span class='widget-item-control'>
-<span class='item-control blog-admin'>
-<a class='quickedit' href='//www.syndicatestream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=footersec2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
-
-</a>
-</span>
-</span>
-<div class='clear'></div>
-</div></div>
-</li>
-</ul>
-</div>
-<div class='footer-widget-box footer-widget-box-last'>
-<ul class='widget-container'>
-<li>
-<div class='footersec section' id='footersec3'><div class='widget HTML' id='HTML2'>
-<h2 class='title'>About</h2>
-<div class='widget-content'>
-Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, sea at labitur deserunt. Eam dicam congue soluta ut. <a href='http://btemplates.com'>Stream Templates</a>
-</div>
-<div class='clear'></div>
-<span class='widget-item-control'>
-<span class='item-control blog-admin'>
-<a class='quickedit' href='//www.syndicatestream.com/rearrange?blogID=2120213698440303768&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footersec3' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Edit'>
-
-</a>
-</span>
-</span>
-<div class='clear'></div>
-</div></div>
-</li>
-</ul>
-</div>
-</div>
-</div>
-
--->
 
 
 <div style='clear:both;'></div>
@@ -94,7 +6,7 @@ Mel putent quaeque an, ut postea melius denique sit. Officiis sensibus at mea, s
 <div id='footer'>
 <div id='copyrights'>
 Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
-<a href='http://syndicatestream.com/'>Syndicate Stream </a> | Powered by <a href='mailto://patrick@insidenothing.com'>iN</a>
+<a href='http://syndicatestream.com/'>Streaming Research LLC</a> | Powered by <a href='mailto://syndicatestream@insidenothing.com'>iN</a>
 </div>
 <div id='credits'>
 <input name="email" value="E-Mail Address" onclick="this.value='';"> <input name="password" value="Password" onclick="this.value='';"> <input type="submit" value="Log In"> 
