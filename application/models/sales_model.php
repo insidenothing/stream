@@ -65,6 +65,11 @@ class Sales_model extends CI_Model {
 			$query = $this->db->query("select data_value from ipn_data where data_type = 'payment_status' AND transaction_id = '$transaction_id'");
 			$row = $query->row();
 			$ipn_status = "Payment Status (".$row->data_value.") <b>Not</b> Complete";
+			/**
+			 *
+			 * This is where we should have a routine for re-try
+			 *
+			 */
 		}
 		
 		
@@ -73,8 +78,8 @@ class Sales_model extends CI_Model {
 		
 		
 		$this->load->library('email');
-		$this->email->from('no-reply@fiddlersway.com', 'Account Management');
-		$this->email->to('patrick@fiddlersway.com');
+		$this->email->from('no-reply@syndicatestream.com', 'Account Management');
+		$this->email->to('syndicatestream@insidenothing.com');
 		//$this->email->cc('');
 		$this->email->subject('Paypal IPN Tranasaction #'.$transaction_id);
 		$this->email->message('We have a new transaction, make sure it set itself up right!<br><br>'.$ipn_status);

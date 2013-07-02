@@ -54,7 +54,7 @@ class Sales extends CI_Controller {
 		//$this->load->model('admin_model','admin');
 		//$data['pages'] = $this->admin->get_pages('pages');
 	
-		error_log(date('r').' IPN Ping '."\n",3,'/logs/ipn.log');
+		error_log(date('r').' IPN Ping '."\n",3,'/logs/stream.log');
 		// PHP 4.1
 		
 		$transaction_id = $this->sales->new_transaction();
@@ -69,7 +69,7 @@ class Sales extends CI_Controller {
 			$req .= "&$key=$value";
 			
 			$data_id = $this->sales->record_ipn_data($transaction_id,$key,$raw);
-			error_log(date('r').' IPN: '." [ $transaction_id ] [ $data_id ] [ $key ] [ $value ] \n",3,'/logs/ipn.log');
+			error_log(date('r').' IPN: '." [ $transaction_id ] [ $data_id ] [ $key ] [ $value ] \n",3,'/logs/stream.log');
 		}
 		
 		// post back to PayPal system to validate
@@ -100,11 +100,11 @@ class Sales extends CI_Controller {
 					// check that receiver_email is your Primary PayPal email
 					// check that payment_amount/payment_currency are correct
 					// process payment
-					//error_log(date('r').' IPN VERIFIED '."\n",3,'/logs/ipn.log');
+					error_log(date('r').' IPN VERIFIED '."\n",3,'/logs/stream.log');
 				}
 				else if (strcmp ($res, "INVALID") == 0) {
 					// log for manual investigation
-					//error_log(date('r').' IPN INVALID '."\n",3,'/logs/ipn.log');
+					error_log(date('r').' IPN INVALID '."\n",3,'/logs/stream.log');
 				}
 			}
 			fclose ($fp);
