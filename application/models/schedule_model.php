@@ -90,14 +90,14 @@ class Schedule_model extends CI_Model {
 						</b>
 					</p>
 				</td>
-				<td style="width:12.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="12%">
+				<td style="width:9.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="12%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->catagory.'</span>
 						</b>
 					</p>
 				</td>
-				<td style="width:10.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="10%">
+				<td style="width:13.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="10%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Priced at $'.$row->price.'</span>

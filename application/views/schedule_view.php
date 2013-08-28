@@ -18,14 +18,14 @@
 						</b>
 					</p>
 				</td>
-				<td style="width:12.0%;background:#ddddff;padding:0in 0in 0in 0in" width="12%">
+				<td style="width:9.0%;background:#ddddff;padding:0in 0in 0in 0in" width="12%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Type</span>
 						</b>
 					</p>
 				</td>
-				<td style="width:10.0%;background:#ddddff;padding:0in 0in 0in 0in" width="10%">
+				<td style="width:13.0%;background:#ddddff;padding:0in 0in 0in 0in" width="10%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Price at Filing/Range</span>
