@@ -79,29 +79,14 @@ class Schedule_model extends CI_Model {
 		
 		if ($query->num_rows() > 0)
 		{
-			$i=0;
 			foreach ($query->result() as $row)
 			{
-				if (strlen($row->premium_report) > 50)
-				{
-					$premium = '<br>Premium&nbsp;Report';
-					$bgcolor = $this->row_color_premium($i);
-					$color = "000000";
-				}else{
-					$premium = '<br>In&nbsp;Progress';
-					$bgcolor = $this->row_color($i);
-					$color = "999999";
-				}
-				
-				
-				
-				$i++;
 				$rows = '
 			<tr>
 				<td style="width:20.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="20%">
 					<p class="MsoNormal">
 						<b>
-							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->symbol.'</span>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->name.' ('.$row->symbol.')</span>
 						</b>
 					</p>
 				</td>
@@ -115,7 +100,7 @@ class Schedule_model extends CI_Model {
 				<td style="width:10.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="10%">
 					<p class="MsoNormal">
 						<b>
-							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Priced at '.$row->price.'</span>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Priced at $'.$row->price.'</span>
 						</b>
 					</p>
 				</td>
