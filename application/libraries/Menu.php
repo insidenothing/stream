@@ -54,20 +54,20 @@ class Menu   {
 	function load_common($view,$data)
 	{
 		$CI =& get_instance();
-		$CI->load->model('ipo_model','ipo');
-		$CI->load->model('page_model','page');
-		$CI->load->model('blog_model','blog');
+		//$CI->load->model('ipo_model','ipo');
+		//$CI->load->model('page_model','page');
+		//$CI->load->model('blog_model','blog');
 
-		$data['home_ipos'] = $CI->ipo->get_home_list();
-		$data['share_link'] = $CI->config->site_url().$CI->uri->uri_string();
-		$data['share_title'] = "Fiddlers%20Way";
-		$data['page_title'] = $this->page_title($CI->router->class,$CI->router->method,$CI->uri->segment(3, 0));
+		//$data['home_ipos'] = $CI->ipo->get_home_list();
+		//$data['share_link'] = $CI->config->site_url().$CI->uri->uri_string();
+		//$data['share_title'] = "Fiddlers%20Way";
+		//$data['page_title'] = $this->page_title($CI->router->class,$CI->router->method,$CI->uri->segment(3, 0));
 		$data['debug'] = '';
 
 
-		$data['left_premium'] = $CI->page->get_premium_pages('0','5');
-		$data['left_blog_recent'] = $CI->blog->get_blog_list('0','5');
-		$data['left_blog_rest'] = $CI->blog->get_blog_list('5','20');
+		//$data['left_premium'] = $CI->page->get_premium_pages('0','5');
+		//$data['left_blog_recent'] = $CI->blog->get_blog_list('0','5');
+		//$data['left_blog_rest'] = $CI->blog->get_blog_list('5','20');
 
 	
 
