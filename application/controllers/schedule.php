@@ -9,7 +9,9 @@ class Schedule extends CI_Controller {
 		$date = "$year-$month-$day";
 
 		/* do not allow future dates */
-		
+		if (strtotime($date) > strtotime(date('Y-m-d'))){
+			$date = date('Y-m-d');
+		}
 		
 		
 		if ($this->input->cookie('premium') == 'yes')
