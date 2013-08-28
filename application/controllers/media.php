@@ -43,6 +43,7 @@ class Media extends CI_Controller {
 			
 		
 		}
+		$data['level'] = $this->input->cookie('level');
 		$data['list'] = $this->media->get_list();
 		$data['public'] = $this->media->get_public();
 		$data['results'] = $results;
