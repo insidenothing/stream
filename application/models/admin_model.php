@@ -34,7 +34,7 @@ class Admin_model extends CI_Model {
 		$shares = addslashes($shares);
 		$price = addslashes($price);
 		$updates = addslashes($updates);
-		$this->db->query("insert into ipo_calendar (name,symbol,managers,catagory,shares,price,updates) values ('$name','$symbol','$managers','$catagory','$shares','$price','$updates')");
+		$this->db->query("insert into ipo_calendar (name,symbol,managers,catagory,shares,price,updates,published_date,updated_datetime) values ('$name','$symbol','$managers','$catagory','$shares','$price','$updates',NOW(),NOW() )");
 		return "$name added.";	
 	}
 	function set_data($id,$field,$content)
