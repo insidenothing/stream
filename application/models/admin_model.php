@@ -28,11 +28,11 @@ class Admin_model extends CI_Model {
 	function set_data($id,$field,$content)
 	{
 		$content = addslashes($content);
-		$query = $this->db->query("select $field from users where id = '$id'");
+		$query = $this->db->query("select $field from ipo_calendar where id = '$id'");
 		$row=$query->row_array();
 		$old = $row[$field];
 		if ($content != $old){
-			$query = $this->db->query("UPDATE users set $field = '$content' where id = '$id'");
+			$query = $this->db->query("UPDATE ipo_calendar set $field = '$content' where id = '$id'");
 			return $field.' updated from '.$old.' to '.$content.'
 ';		
 		}
@@ -40,7 +40,7 @@ class Admin_model extends CI_Model {
 	
 	function get_data($id,$field)
 	{
-		$query = $this->db->query("select $field from users where id = '$id'");
+		$query = $this->db->query("select $field from ipo_calendar where id = '$id'");
 		if ($query->num_rows() > 0)
 		{
 			$row=$query->row_array();
