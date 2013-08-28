@@ -10,6 +10,7 @@ class Schedule extends CI_Controller {
 		/* most recent blog posting */
 
 		$data['list'] = $this->schedule->get_list($date);
+		$data['date'] = date('l \the jS \of F Y',strtotime($date));
 
 		$this->load->library('Menu','menu');
 		$this->menu->load_common('schedule_view',$data);
