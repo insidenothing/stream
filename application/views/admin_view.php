@@ -11,7 +11,7 @@
 	</tr>
 	<tr>
 		<td>Managers</td>
-		<td><input name="managers" value="<?PHP echo $managers;?>"></td>
+		<td><input name="managers" value="<?PHP echo $managers;?>" size="25"></td>
 	</tr>
 	<tr>
 		<td>Type</td>
@@ -19,11 +19,11 @@
 	</tr>
 	<tr>
 		<td>Shares</td>
-		<td><input name="shares" value="<?PHP echo $shares;?>">M</td>
+		<td><input name="shares" value="<?PHP echo $shares;?>" size="5">M</td>
 	</tr>
 	<tr>
 		<td>Priced at</td>
-		<td>$<input name="price" value="<?PHP echo $price;?>"></td>
+		<td>$<input name="price" value="<?PHP echo $price;?>" size="5"></td>
 	</tr>
 </table>
 </td><td>
