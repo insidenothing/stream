@@ -25,16 +25,11 @@ class Media_model extends CI_Model {
 		return $rows;
 	}
 
-	function insert_data($name,$symbol,$managers,$catagory,$shares,$price,$updates)
+	function insert_data($name,$link)
 	{
 		$name = addslashes($name);
-		$symbol = addslashes($symbol);
-		$managers = addslashes($managers);
-		$catagory = addslashes($catagory);
-		$shares = addslashes($shares);
-		$price = addslashes($price);
-		$updates = addslashes($updates);
-		$this->db->query("insert into media (name,symbol,managers,catagory,shares,price,updates,published_date,updated_datetime) values ('$name','$symbol','$managers','$catagory','$shares','$price','$updates',NOW(),NOW() )");
+		$link = addslashes($link);
+		$this->db->query("insert into media (name,link,updated_datetime) values ('$name','$link',NOW() )");
 		return "$name added.";	
 	}
 	function set_data($id,$field,$content)
