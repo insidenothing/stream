@@ -30,7 +30,7 @@
 <table>
 	<tr>
 		<td>Update Notes</td>
-		<td><textarea name="updates" cols="75" rows="15"></textarea></td>
+		<td><textarea name="updates" cols="45" rows="15"></textarea></td>
 	</tr>
 </table>
 </td></tr>
