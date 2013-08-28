@@ -36,7 +36,7 @@
 </td></tr>
 <tr><td colspan="2">
 <?PHP if ($name != ''){?>
-	<input type="submit" value="Save Update">
+	<input type="submit" value="Save Update"> or <a href="/admin">Discard and Start New</a>
 <?PHP }else{ ?>
 	<input type="submit" value="Save New">
 <?PHP } ?>
