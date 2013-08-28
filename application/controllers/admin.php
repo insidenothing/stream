@@ -7,7 +7,7 @@ class Admin extends CI_Controller {
 		$results='';
 		//$this->output->enable_profiler(TRUE);
 		$this->load->model('admin_model','admin');
-		$data['list'] = $this->admin->get_list();
+		
 		//$data['blogs'] = $this->admin->get_pages('blogs','blog');
 		//$data['wire'] = $this->admin->get_pages('wire','wire');
 		//$data['ipos'] = $this->admin->get_ipos();
@@ -43,6 +43,7 @@ class Admin extends CI_Controller {
 			$data['updates'] 	= '';
 		
 		}
+		$data['list'] = $this->admin->get_list();
 		$data['results'] = $results;
 		$this->load->library('Menu','menu');
 		$this->menu->load_common('admin_view',$data);
