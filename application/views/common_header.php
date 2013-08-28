@@ -852,6 +852,7 @@ window.onload=changecontent
 <div class='span-24'>
 <div class='menu-secondary-container'>
 <ul class='menus menu-secondary'>
+<li><a href='http://syndicatestream.com/schedule/index/<?PHP echo date('Y/m/d');?>'>Deals for Today</a></li>
 <li><a href='http://syndicatestream.com/landing'>Home</a></li>
 <li><a href='http://syndicatestream.com/media'>Media</a></li>
 <li><a href='http://syndicatestream.com/about_us'>About Us</a></li>

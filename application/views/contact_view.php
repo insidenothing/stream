@@ -23,7 +23,7 @@
 	<div class="block-border">
 		<div class="block-content">
 			<div class="widget widget_text">
-				<h4>Send Message</h4>
+				<h4>Send Message, someone will contact you within 48 hours.</h4>
 				<table width="100%">
 					<tr>
 						<td width="25%" style="text-size:20px;"><?php echo $feedback; ?></td>
