@@ -12,7 +12,7 @@ class Schedule extends CI_Controller {
 		$data['list'] = $this->schedule->get_list($date);
 
 		$this->load->library('Menu','menu');
-		$this->menu->load_plain('schedule_view',$data);
+		$this->menu->load_common('schedule_view',$data);
 
 	}
 }
