@@ -30,16 +30,16 @@
 						<td width="75%"><select style="text-size:20px;" name="spam"><option style="color:red;">1</option><option style="color:green;">2</option></select></td>
 					</tr>
 					<tr>
-						<td width="50%">From:</td>
+						<td width="25%">From:</td>
 						<?php if ($email != ''){?>
-							<td width="50%"><input name="email" type="email" value="<?php echo $email;?>"></td>
+							<td width="75%"><input name="email" type="email" value="<?php echo $email;?>"></td>
 						<?php }else{ ?>
-							<td width="50%"><input name="email" type="email" value="E-Mail Address" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'E-Mail Address':this.value;"></td>
+							<td width="75%"><input name="email" type="email" value="E-Mail Address" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'E-Mail Address':this.value;"></td>
 						<?php }?>
 					</tr>
 					<tr>
-						<td width="50%">Subject:</td>
-						<td width="50%"><input name="subject" value="<?php echo $subject;?>"></td>
+						<td width="25%">Subject:</td>
+						<td width="75%"><input name="subject" value="<?php echo $subject;?>"></td>
 					</tr>
 					<tr>
 						<td colspan="2" align="center"><textarea rows="5" cols="45" name="body"><?php echo $body;?></textarea></td>
