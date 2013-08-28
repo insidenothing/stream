@@ -8,6 +8,10 @@ class Schedule extends CI_Controller {
 		$this->load->model('schedule_model','schedule');
 		$date = "$year-$month-$day";
 
+		/* do not allow future dates */
+		
+		
+		
 		if ($this->input->cookie('premium') == 'yes')
 		{
 			/* live data */
