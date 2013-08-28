@@ -10,7 +10,7 @@ Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();doc
 </div>
 <div id='credits' style="white-space:nowrap;">
 <?PHP if (empty($_COOKIE['name'])){ ?>
-<form action="/login" method="post">
+<form action="/login/dologin" method="post">
 E-Mail Address <input name="email"> Password <input name="password" type="password"> <input style="font-size: 11px; margin:0px; padding:0px;" type="submit" value="Go"> 
 </form>
 <?PHP }else{ ?>
