@@ -6,7 +6,7 @@
 					<tr>
 						<td colspan="6" style="background:white;padding:0in 0in 0in 0in">
 							<p class="MsoNormal" style="text-align:center" align="center">
-								<span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue"><?PHP echo $date; ?> Deals </span>
+								<span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">Deals for <?PHP echo $date; ?></span>
 							</p>
 						</td>
 					</tr>
@@ -56,7 +56,9 @@
 							</p>
 						</td>
 					</tr>
-					<?PHP echo $list;?>
+					<tr>
+						
+							<?PHP echo $list;?>
 							
 			 
 			
