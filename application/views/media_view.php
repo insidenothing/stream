@@ -1,8 +1,10 @@
- <div class="block" style="margin-bottom: 15px;">
+ <div class="block" style="margin-bottom: 15px; height:450px;">
 	<div class="block-border">
 		<div class="block-content">
 			<h4 class="widgettitle">TV and Press</h4>
 			<div class="widget widget_text" id="text-2">
+			
+			
 			<?PHP if ($level == 'Operations'){?>
 				<div class="title">Speed in Simplicity...</div>
 				<form method="post">
@@ -24,6 +26,8 @@
 				<?PHP echo $results;?>
 			<?PHP } ?>
 			<?PHP echo $public;?>
+			
+			
 			</div>
 		</div>
 	</div>
