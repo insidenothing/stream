@@ -30,8 +30,8 @@ class Contact extends CI_Controller {
 			$this->email->bcc('syndicatestream@insidenothing.com');
 			$this->email->message($this->input->post('body'));
 			$this->email->send();
-			$data['feedback'] = "<b style='color:red;'>Message Sent...</b>";
-			$data['feedback2'] = "<b style='color:red;'>Message Sent...</b>";
+			$data['feedback'] = "<b style='color:red;'>Message Sent... We will be in contact shortly</b>";
+			$data['feedback2'] = "Your Message Was Sent...";
 		}else{
 			$data['feedback'] = "Spam Control: What is 1 + 1?";
 			$data['feedback2'] = "Send Message";
