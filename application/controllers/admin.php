@@ -36,7 +36,12 @@ class Admin extends CI_Controller {
 		}
 		
 		
-		
+		if ($this->input->post('query_type') == 'insert'){
+			$results .= $this->admin->insert_data($this->input->post('name'),$this->input->post('symbol'),$this->input->post('managers'),$this->input->post('catagory'),$this->input->post('shares'),$this->input->post('price'),$this->input->post('updates'));
+		}
+		if ($this->input->post('query_type') == 'delete'){
+			$results .= $this->admin->delete_data($id);
+		}
 		
 		
 		

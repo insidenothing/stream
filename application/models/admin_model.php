@@ -25,6 +25,18 @@ class Admin_model extends CI_Model {
 		return $rows;
 	}
 
+	function insert_data($name,$symbol,$managers,$catagory,$shares,$price,$updates)
+	{
+		$name = addslashes($name);
+		$symbol = addslashes($symbol);
+		$managers = addslashes($managers);
+		$catagory = addslashes($catagory);
+		$shares = addslashes($shares);
+		$price = addslashes($price);
+		$updates = addslashes($updates);
+		$this->db->query("select $field from ipo_calendar where id = '$id'");
+		return "$name added.";	
+	}
 	function set_data($id,$field,$content)
 	{
 		$content = addslashes($content);
