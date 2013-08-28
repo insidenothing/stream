@@ -18,12 +18,35 @@ class Admin_model extends CI_Model {
 		{
 			foreach ($query->result() as $row)
 			{
-				$rows .= '<tr><td>'.$row->name.'</td><td>'.$row->symbol.'</td><td>'.date('l \t\h\e jS \o\f F Y',strtotime($row->published_date)).'</td><td>[edit]</td><td>[delete]</td></tr>';
+				$rows .= '<tr><td>'.$row->name.'</td><td>'.$row->symbol.'</td><td>'.date('l \t\h\e jS \o\f F Y',strtotime($row->published_date)).'</td><td><a href="/admin/index/'.$row->id.'">[edit]</a></td><td>[delete]</td></tr>';
 			}
 		}
 		$rows .= '</table>';
 		return $rows;
 	}
 
+	function set_data($id,$field,$content)
+	{
+		$content = addslashes($content);
+		$query = $this->db->query("select $field from users where id = '$id'");
+		$row=$query->row_array();
+		$old = $row[$field];
+		if ($content != $old){
+			$query = $this->db->query("UPDATE users set $field = '$content' where id = '$id'");
+			return $field.' updated from '.$old.' to '.$content.'
+';		
+		}
+	}
+	
+	function get_data($id,$field)
+	{
+		$query = $this->db->query("select $field from users where id = '$id'");
+		if ($query->num_rows() > 0)
+		{
+			$row=$query->row_array();
+			return stripslashes($row[$field]);
+		}
+		
+	}
 	
 }

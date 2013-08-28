@@ -3,34 +3,34 @@
 <table>
 	<tr>
 		<td>Company Name</td>
-		<td><input name="name"></td>
+		<td><input name="name" value="<?PHP echo $name;?>"></td>
 	</tr>
 	<tr>
 		<td>Symbol</td>
-		<td><input name="symbol"></td>
+		<td><input name="symbol" value="<?PHP echo $symbol;?>"></td>
 	</tr>
 	<tr>
 		<td>Managers</td>
-		<td><input name="managers"></td>
+		<td><input name="managers" value="<?PHP echo $managers;?>"></td>
 	</tr>
 	<tr>
 		<td>Type</td>
-		<td><input name="catagory"></td>
+		<td><input name="catagory" value="<?PHP echo $catagory;?>"></td>
 	</tr>
 	<tr>
 		<td>Shares</td>
-		<td><input name="shares">M</td>
+		<td><input name="shares" value="<?PHP echo $shares;?>">M</td>
 	</tr>
 	<tr>
 		<td>Priced at</td>
-		<td>$<input name="price"></td>
+		<td>$<input name="price" value="<?PHP echo $price;?>"></td>
 	</tr>
 </table>
 </td><td>
 <table>
 	<tr>
 		<td>Update Notes</td>
-		<td><textarea name="updates" cols="45" rows="15"></textarea></td>
+		<td><textarea name="updates" cols="45" rows="15"><?PHP echo $updates;?></textarea></td>
 	</tr>
 </table>
 </td></tr>
