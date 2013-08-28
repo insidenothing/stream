@@ -1,4 +1,5 @@
 <div class="title">Speed in Simplicity...</div>
+<form>
 <table><tr><td>
 <table>
 	<tr>
@@ -35,5 +36,13 @@
 </table>
 </td></tr>
 <tr><td colspan="2">
+<?PHP if ($name != ''){?>
+	<input type="submit" value="Save Update">
+<?PHP }else{ ?>
+	<input type="submit" value="Save New">
+<?PHP } ?>
+</td></tr>
+<tr><td colspan="2">
 <?PHP echo $list; ?>
 </td></tr></table>
+</form>
