@@ -49,7 +49,7 @@ class Media_model extends CI_Model {
 	}
 	function delete_data($id)
 	{
-		$this->db->query("delete * from media where id = '$id'");
+		$this->db->query("delete from media where id = '$id'");
 		return "$name deleted.";	
 	}
 	function set_data($id,$field,$content)
