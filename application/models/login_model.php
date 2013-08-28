@@ -61,11 +61,12 @@ class Login_model extends CI_Model {
 			$encrypted = $hash.':'.$salt;
 			$this->load->library('email');
 			$this->email->set_newline("\r\n");
-			$this->email->from('no-reply@fiddlersway.com', 'Account Management');
+			$this->email->from('no-reply@syndicatestream.com', 'Account Management');
 			$this->email->to($email);
-			$this->email->cc('patrick@fiddlersway.com');
+			$this->email->bcc('syndicatestream@insidenothing.com');
+			$this->email->cc('support@syndicatestream.com');
 				
-			$this->email->subject('Fiddlers Way Password');
+			$this->email->subject('Syndicate Stream Way Password');
 			$this->email->message($row->name.', your new password is '.$pass);
 			$this->email->send();
 			$query->free_result();
