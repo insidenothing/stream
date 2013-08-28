@@ -7,6 +7,7 @@
 				<td colspan="6" style="padding:0in 0in 0in 0in">
 					<p class="MsoNormal" style="text-align:center" align="center">
 						<span style="font-size:20.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">Deals for <?PHP echo $date; ?></span>
+						<small><?PHP echo $updates; ?></small>
 					</p>
 				</td>
 			</tr>

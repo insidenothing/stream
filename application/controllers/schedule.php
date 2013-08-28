@@ -12,9 +12,12 @@ class Schedule extends CI_Controller {
 		{
 			/* live data */
 			$date=$date;
+			$data['updates']='Live Updates';
+			
 		}else{
 			/* one weeks ago data */
 			$date=date('Y-m-d',strtotime($date) - 604800);
+			$data['updates']='Updates Delayed One Week';
 		}
 
 		$this->load->model('calendar_model','calendar');
