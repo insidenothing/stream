@@ -39,7 +39,7 @@
 					</tr>
 					<tr>
 						<td width="25%">Subject:</td>
-						<td width="75%"><input name="subject" value="<?php echo $subject;?>"></td>
+						<td width="75%"><input name="subject" size="100" value="<?php echo $subject;?>"></td>
 					</tr>
 					<tr>
 						<td colspan="2" align="center"><textarea rows="5" cols="45" name="body"><?php echo $body;?></textarea></td>
