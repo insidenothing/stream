@@ -41,6 +41,7 @@ class Admin extends CI_Controller {
 		}
 		if ($this->input->post('query_type') == 'delete'){
 			$results .= $this->admin->delete_data($id);
+			$this->output->set_header("Location: /admin");
 		}
 		
 		

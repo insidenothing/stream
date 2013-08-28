@@ -49,7 +49,11 @@ class Admin_model extends CI_Model {
 ';		
 		}
 	}
-	
+	function delete_data($id)
+	{
+		$this->db->query("delete from ipo_calendar where id = '$id'");
+		return "$name deleted.";	
+	}
 	function get_data($id,$field)
 	{
 		$query = $this->db->query("select $field from ipo_calendar where id = '$id'");

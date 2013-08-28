@@ -43,8 +43,14 @@
 	<input type="submit" value="Save New">
 	<input type="hidden" name="query_type" value="insert">
 <?PHP } ?>
+</form>
+<?PHP if ($name != ''){?>
+<form method="post">
+	<input type="submit" value="DELETE (This cannot be undone)">
+	<input type="hidden" name="query_type" value="delete">
+</form>
+<?PHP } ?>
 </td></tr>
 <tr><td colspan="2">
 <?PHP echo $list; ?>
 </td></tr></table>
-</form>
