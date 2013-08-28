@@ -26,12 +26,13 @@ class Media extends CI_Controller {
 		}
 		if ($this->input->post('query_type') == 'delete'){
 			$results .= $this->media->delete_data($id);
+			$this->output->set_header("Location: /media");
 		}
 		
 		
 		
 		
-		if ($id != '' && $this->input->post('query_type') != 'delete')){ 
+		if ($id != ''){ 
 			/* form prefill */
 			$data['name'] 		= $this->media->get_data($id,'name');
 			$data['link'] 		= $this->media->get_data($id,'link');
