@@ -12,7 +12,7 @@ class Media_model extends CI_Model {
 	
 	function get_public()
 	{
-		$rows = '<table width="100%" bgcolor="#ffffff">';
+		$rows = '<table>';
 		$query = $this->db->query("SELECT * from media order by updated_datetime DESC");
 		if ($query->num_rows() > 0)
 		{
