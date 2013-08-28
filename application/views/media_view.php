@@ -1,9 +1,9 @@
 <form method="post">
 Name:<br>
-<input value="<?PHP echo $name;?>"><br>
+<input name="name" value="<?PHP echo $name;?>"><br>
 <br>
 Link:<br>
-<input value="<?PHP echo $link;?>"><br>
+<input name="link" value="<?PHP echo $link;?>"><br>
 <br>
 <?PHP if ($name != ''){?>
 	<input type="submit" value="Save Update"> or <a href="/media">Discard and/or Start New</a>

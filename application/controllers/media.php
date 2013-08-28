@@ -21,7 +21,7 @@ class Media extends CI_Controller {
 		}
 		
 		
-		if ($this->input->post('query_type') == 'insert'){
+		if ($this->input->post('query_type') == 'insert' && $this->input->post('name') != '' && $this->input->post('link') != ''){
 			$results .= $this->media->insert_data($this->input->post('name'),$this->input->post('link'));
 		}
 		if ($this->input->post('query_type') == 'delete'){
