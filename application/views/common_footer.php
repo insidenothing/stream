@@ -8,7 +8,7 @@
 Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>
 <a href='http://syndicatestream.com/'>Streaming Research LLC</a> | Powered by <a href='mailto://syndicatestream@insidenothing.com'>iN</a>
 </div>
-<div id='credits'>
+<div id='credits' style="white-space:nowrap;">
 <form action="/login" method="post">
 E-Mail Address <input name="email"> Password <input name="password" type="password"> <input type="submit" value="Log In"> 
 </form>
