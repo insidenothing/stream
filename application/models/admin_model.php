@@ -12,7 +12,7 @@ class Admin_model extends CI_Model {
 	
 	function get_list()
 	{
-		$rows = '<table width="100%">';
+		$rows = '<table width="100%" bgcolor="#ffffff">';
 		$query = $this->db->query("SELECT * from ipo_calendar order by updated_datetime DESC");
 		if ($query->num_rows() > 0)
 		{
