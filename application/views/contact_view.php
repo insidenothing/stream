@@ -26,8 +26,8 @@
 				<h4>Send Message</h4>
 				<table width="100%">
 					<tr>
-						<td width="50%"><?php echo $feedback; ?></td>
-						<td width="50%"><select name="spam"><option style="color:red;">1</option><option style="color:green;">2</option></select></td>
+						<td width="25%" style="text-size:20px;"><?php echo $feedback; ?></td>
+						<td width="75%"><select style="text-size:20px;" name="spam"><option style="color:red;">1</option><option style="color:green;">2</option></select></td>
 					</tr>
 					<tr>
 						<td width="50%">From:</td>
