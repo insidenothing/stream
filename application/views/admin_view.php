@@ -31,7 +31,7 @@
 </td><td>
 <table>
 	<tr>
-		<td>Update Notes*<br /><textarea name="updates" cols="45" rows="15"><?PHP echo $updates;?></textarea><br />*You can use HTML,<br /><?PHP echo htmlspecialchars("<br>");?> for a line break,<br /><?PHP echo htmlspecialchars("<b>some text</b>");?> for bold.<br />Just remember, simple is good.</td>
+		<td>Update Notes*<br /><textarea name="updates" cols="45" rows="15"><?PHP echo $updates;?></textarea><br />*You can use HTML,<br /><?PHP echo htmlspecialchars("<br>");?> for a line break,<br /><?PHP echo htmlspecialchars("<b>some text</b>");?> for <b>bold</b>.<br />Just remember, simple is good.</td>
 	</tr>
 </table>
 </td></tr>
