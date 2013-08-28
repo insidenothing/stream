@@ -15,6 +15,7 @@ Advanced: 39.99
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+
  <br /><br /><br />
 Includes timing and deal size, structure, underwriters and economics, and the SyndicateStream heat rating.
 
