@@ -32,9 +32,9 @@
 					<tr>
 						<td width="25%">From:</td>
 						<?php if ($email != ''){?>
-							<td width="75%"><input name="email" type="email" value="<?php echo $email;?>"></td>
+							<td width="75%"><input name="email" type="email" size="100" value="<?php echo $email;?>"></td>
 						<?php }else{ ?>
-							<td width="75%"><input name="email" type="email" value="E-Mail Address" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'E-Mail Address':this.value;"></td>
+							<td width="75%"><input name="email" type="email" size="100" value="E-Mail Address" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'E-Mail Address':this.value;"></td>
 						<?php }?>
 					</tr>
 					<tr>
