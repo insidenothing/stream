@@ -853,7 +853,9 @@ window.onload=changecontent
 <div class='menu-secondary-container'>
 <ul class='menus menu-secondary'>
 <li><a href='http://syndicatestream.com/landing'>Home</a></li>
+<li><a href='http://syndicatestream.com/media'>Media</a></li>
 <li><a href='http://syndicatestream.com/about_us'>About Us</a></li>
+<li><a href='http://syndicatestream.com/contact'>Contact Us</a></li>
 <?PHP if (empty($_COOKIE['premium'])){ ?><li><a href='http://syndicatestream.com/pricing'>Pricing</a></li><?PHP }elseif (isset($_COOKIE['premium'])){ if ($_COOKIE['premium'] != 'yes'){ ?><li><a href='http://syndicatestream.com/pricing'>Pricing</a></li><?PHP }} ?>
 
 
