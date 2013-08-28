@@ -98,42 +98,42 @@ class Schedule_model extends CI_Model {
 				$i++;
 				$rows = '
 			<tr>
-				<td style="width:20.0%;background:#ddddff;padding:0in 0in 0in 0in" width="20%">
+				<td style="width:20.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="20%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->symbol.'</span>
 						</b>
 					</p>
 				</td>
-				<td style="width:12.0%;background:#ddddff;padding:0in 0in 0in 0in" width="12%">
+				<td style="width:12.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="12%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->catagory.'</span>
 						</b>
 					</p>
 				</td>
-				<td style="width:10.0%;background:#ddddff;padding:0in 0in 0in 0in" width="10%">
+				<td style="width:10.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="10%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Priced at '.$row->price.'</span>
 						</b>
 					</p>
 				</td>
-				<td style="width:5.0%;background:#ddddff;padding:0in 0in 0in 0in" width="5%">
+				<td style="width:5.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="5%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->shares.'M</span>
 						</b>
 					</p>
 				</td>
-				<td style="width:30.0%;background:#ddddff;padding:0in 0in 0in 0in" width="30%">
+				<td style="width:30.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="30%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->managers.'</span>
 						</b>
 					</p>
 				</td>
-				<td style="width:23.0%;background:#ddddff;padding:0in 0in 0in 0in" width="23%">
+				<td style="width:23.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="23%">
 					<p class="MsoNormal">
 						<b>
 							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.date('l \t\h\e jS \o\f F Y',strtotime($row->published_date)).'</span>
