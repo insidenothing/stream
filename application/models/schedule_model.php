@@ -131,7 +131,7 @@ class Schedule_model extends CI_Model {
 			$rows .= '
 			<tr>
 				<td colspan="6" style="background:white;padding:0in 0in 0in 0in">
-					<p class="MsoNormal" style="text-align:center" align="center">
+					<p class="MsoNormal" style="text-align:left" align="left">
 						<span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#999999">'.$row->updates.'</span>
 					</p>
 				</td>
