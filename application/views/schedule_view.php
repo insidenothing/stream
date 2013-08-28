@@ -1,3 +1,5 @@
+ <center><table><tr><td valign="top"><?PHP echo $calendarA; ?></td><td valign="top"><?PHP echo $calendarB; ?></td></tr></table></center>
+
 <div class="block" style="margin-bottom: 15px;">
 	 <table style="width:100.0%;background:#cccccc" border="0" cellpadding="0" cellspacing="1" width="100%">
 		<tbody>

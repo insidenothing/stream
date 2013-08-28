@@ -17,7 +17,9 @@ class Schedule extends CI_Controller {
 			$date=date('Y-m-d',strtotime($date) - 604800);
 		}
 
-		
+		$this->load->model('calendar_model','calendar');
+		$data['calendarA'] = $this->calendar->calendar();
+		$data['calendarB'] = $this->calendar->calendar(1);
 		
 		$data['list'] = $this->schedule->get_list($date);
 		$data['date'] = date('l \t\h\e jS \o\f F Y',strtotime($date));
