@@ -33,7 +33,7 @@ class Login_model extends CI_Model {
 				$this->user->set_premium($row->premium_status);
 				$this->user->set_cookies();
 				$query->free_result();
-				$this->output->set_header("Location: /".str_replace('-','/',$this->input->post('from')));
+				$this->output->set_header("Location: /landing");
 			}else{	
 			$query->free_result();
 			return "Wrong Password.";
