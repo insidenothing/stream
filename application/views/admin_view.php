@@ -2,29 +2,6 @@
 <table><tr><td>
 <table>
 	<tr>
-		<td>Database</td>
-		<td>Human</td>
-		<td>Input</td>
-	</tr>
-	<tr>
-		<td>id</td>
-		<td>auto-increment</td>
-		<td>automatic</td>
-	</tr>
-	<tr>
-		<td>published_date</td>
-		<td>first published</td>
-		<td>automatic</td>
-	</tr>
-	<tr>
-		<td>updated_datetime</td>
-		<td>last updated</td>
-		<td>automatic</td>
-	</tr>
-</table>
-</td><td>
-<table>
-	<tr>
 		<td>name</td>
 		<td>Company Name</td>
 		<td><input></td>
@@ -54,10 +31,13 @@
 		<td>Priced at</td>
 		<td>$<input></td>
 	</tr>
+</table>
+</td><td>
+<table>
 	<tr>
 		<td>updates</td>
 		<td>Update Notes</td>
-		<td><textarea></textarea></td>
+		<td><textarea cols="75" rows="15"></textarea></td>
 	</tr>
 </table>
 </td></tr>
