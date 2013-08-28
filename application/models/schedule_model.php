@@ -67,7 +67,7 @@ class Schedule_model extends CI_Model {
 		$symbol='';
 		if ($symbol=='')
 		{
-			$query = $this->db->query("SELECT * from ipo_calendar where published_date like '$date%' DESC");
+			$query = $this->db->query("SELECT * from ipo_calendar where updated_datetime like '$date%' order by updated_datetime DESC");
 		}else{
 			$query = $this->db->query("SELECT * from ipo_calendar where symbol = '$symbol'");
 		}
