@@ -1,4 +1,5 @@
 <div class="title">Speed in Simplicity...</div>
+<div class="title"><?PHP echo $results; ?></div>
 <form method="post">
 <table><tr><td>
 <table>
@@ -30,7 +31,7 @@
 </td><td>
 <table>
 	<tr>
-		<td>Update Notes<br /><textarea name="updates" cols="45" rows="15"><?PHP echo $updates;?></textarea></td>
+		<td>Update Notes*<br /><textarea name="updates" cols="45" rows="15"><?PHP echo $updates;?></textarea><br />*You can use HTML, <?PHP echo htmlspecialchars("<br>");?> for a line break, <?PHP echo htmlspecialchars("<b>some text</b>");?> for bold. Just remember, simple is good.</td>
 	</tr>
 </table>
 </td></tr>

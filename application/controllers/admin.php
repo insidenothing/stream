@@ -12,9 +12,27 @@ class Admin extends CI_Controller {
 		//$data['wire'] = $this->admin->get_pages('wire','wire');
 		//$data['ipos'] = $this->admin->get_ipos();
 		
-		
+		/* here we will handle the updates ajax style */
 		if ($this->input->post('name') && $this->input->post('query_type') == 'update'){
 			$results .= $this->admin->set_data($id,'name',$this->input->post('name'));
+		}
+		if ($this->input->post('symbol') && $this->input->post('query_type') == 'update'){
+			$results .= $this->admin->set_data($id,'symbol',$this->input->post('symbol'));
+		}
+		if ($this->input->post('managers') && $this->input->post('query_type') == 'update'){
+			$results .= $this->admin->set_data($id,'managers',$this->input->post('managers'));
+		}
+		if ($this->input->post('catagory') && $this->input->post('query_type') == 'update'){
+			$results .= $this->admin->set_data($id,'catagory',$this->input->post('catagory'));
+		}
+		if ($this->input->post('shares') && $this->input->post('query_type') == 'update'){
+			$results .= $this->admin->set_data($id,'shares',$this->input->post('shares'));
+		}
+		if ($this->input->post('price') && $this->input->post('query_type') == 'update'){
+			$results .= $this->admin->set_data($id,'price',$this->input->post('price'));
+		}
+		if ($this->input->post('updates') && $this->input->post('query_type') == 'update'){
+			$results .= $this->admin->set_data($id,'updates',$this->input->post('updates'));
 		}
 		
 		
