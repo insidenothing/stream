@@ -56,7 +56,8 @@ class Sales_model extends CI_Model {
 					 * This is where we should have a routine for automatically creating a user
 					 *
 					 */
-					$ipn_status = "Unable to find email address (".$row->data_value.") in <b>user table</b>";
+					$this->db->query("insert into users (premium_status,email ) values ('yes', '".$row->data_value."'");
+					$ipn_status = "Unable to find email address (".$row->data_value.") in <b>user table</b>, created user account with password, need name";
 				}
 			}else{
 				$ipn_status = "Unable to find email address (".$row->data_value.") in <b>ipn data</b>.";
