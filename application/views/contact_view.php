@@ -32,14 +32,14 @@
 					<tr>
 						<td width="25%">From:</td>
 						<?php if ($email != ''){?>
-							<td width="75%"><input name="email" type="email" size="100" value="<?php echo $email;?>"></td>
+							<td width="75%"><input name="email" type="email" size="40" value="<?php echo $email;?>"></td>
 						<?php }else{ ?>
-							<td width="75%"><input name="email" type="email" size="100" value="E-Mail Address" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'E-Mail Address':this.value;"></td>
+							<td width="75%"><input name="email" type="email" size="40" value="E-Mail Address" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'E-Mail Address':this.value;"></td>
 						<?php }?>
 					</tr>
 					<tr>
 						<td width="25%">Subject:</td>
-						<td width="75%"><input name="subject" size="100" value="<?php echo $subject;?>"></td>
+						<td width="75%"><input name="subject" size="50" value="<?php echo $subject;?>"></td>
 					</tr>
 					<tr>
 						<td colspan="2" align="center"><textarea rows="5" cols="45" name="body"><?php echo $body;?></textarea></td>
