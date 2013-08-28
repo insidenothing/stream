@@ -10,7 +10,7 @@ Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();doc
 </div>
 <div id='credits'>
 <form action="/login" method="post">
-<input name="email" value="E-Mail Address" onclick="this.value='';"> <input name="password" value="Password" onclick="this.value='';"> <input type="submit" value="Log In"> 
+<input name="email" value="E-Mail Address" onclick="this.value='';"> <input name="password" value="Password" type="password" onclick="this.value='';"> <input type="submit" value="Log In"> 
 </form>
 </div>
 </div><!-- #footer -->
