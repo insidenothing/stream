@@ -31,7 +31,7 @@ class Media extends CI_Controller {
 		
 		
 		
-		if ($id != ''){ 
+		if ($id != '' && $this->input->post('query_type') != 'delete')){ 
 			/* form prefill */
 			$data['name'] 		= $this->media->get_data($id,'name');
 			$data['link'] 		= $this->media->get_data($id,'link');
