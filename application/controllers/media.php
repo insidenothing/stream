@@ -22,7 +22,7 @@ class Media extends CI_Controller {
 		
 		
 		if ($this->input->post('query_type') == 'insert'){
-			$results .= $this->media->insert_data($this->input->post('name'),$this->input->post('symbol'),$this->input->post('managers'),$this->input->post('catagory'),$this->input->post('shares'),$this->input->post('price'),$this->input->post('updates'));
+			$results .= $this->media->insert_data($this->input->post('name'),$this->input->post('link'));
 		}
 		if ($this->input->post('query_type') == 'delete'){
 			$results .= $this->media->delete_data($id);
