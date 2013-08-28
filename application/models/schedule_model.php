@@ -101,33 +101,54 @@ class Schedule_model extends CI_Model {
 				
 				
 				$i++;
-				
-				$rows .= "<tr bgcolor='$bgcolor'>
-				<td>".$row->published."</td>
-				<td>".$row->name."</td>
-				<td>".$row->symbol."</td>
-				<td>".$row->manager."</td>
-					<td>".$row->catagory."</td>
-					<td>".$row->shares_mm."</td>
-					
-					<td>".$row->price_low."</td>
-					<td>".$this->ifBlank($row->pre_ipo_price)."</td>
-					<td>".$row->price_high."</td>
-					
-					<td>".$this->ifBlank($row->pre_ipo_amount_mm)."</td>
-					<td>".$row->estimate."</td>
-					
-					<td>".$row->expected."</td>
-					<td>".$this->ifBlank($row->day40)."</td>
-					<td>".$this->ifBlank($row->day180)."</td>
-					<td>$premium2</td>
-					<td>$premium3</td>
-				<td><a style='color:#$color' href='http://syndicatestream.com/detail/index/".$row->symbol."'>Details $premium</td>
-				
-				</tr>";
+				$rows = '
+			<tr>
+				<td style="width:20.0%;background:#ddddff;padding:0in 0in 0in 0in" width="20%">
+					<p class="MsoNormal">
+						<b>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->symbol.'</span>
+						</b>
+					</p>
+				</td>
+				<td style="width:12.0%;background:#ddddff;padding:0in 0in 0in 0in" width="12%">
+					<p class="MsoNormal">
+						<b>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->catagory.'</span>
+						</b>
+					</p>
+				</td>
+				<td style="width:10.0%;background:#ddddff;padding:0in 0in 0in 0in" width="10%">
+					<p class="MsoNormal">
+						<b>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->price.'</span>
+						</b>
+					</p>
+				</td>
+				<td style="width:5.0%;background:#ddddff;padding:0in 0in 0in 0in" width="5%">
+					<p class="MsoNormal">
+						<b>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->shares.'</span>
+						</b>
+					</p>
+				</td>
+				<td style="width:30.0%;background:#ddddff;padding:0in 0in 0in 0in" width="30%">
+					<p class="MsoNormal">
+						<b>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->managers.'</span>
+						</b>
+					</p>
+				</td>
+				<td style="width:23.0%;background:#ddddff;padding:0in 0in 0in 0in" width="23%">
+					<p class="MsoNormal">
+						<b>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->updated_datetime.'</span>
+						</b>
+					</p>
+				</td>
+			</tr>
+				';
 			}
 		}
-	
 		return $rows;
 	}
 	
