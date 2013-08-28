@@ -65,6 +65,10 @@ class Schedule_model extends CI_Model {
 	{
 		$rows='';
 		$symbol='';
+
+
+
+
 		if ($symbol=='')
 		{
 			$query = $this->db->query("SELECT * from ipo_calendar where updated_datetime like '$date%' order by updated_datetime DESC");
@@ -89,15 +93,6 @@ class Schedule_model extends CI_Model {
 					$color = "999999";
 				}
 				
-				if ($this->input->cookie('premium') == 'yes')
-				{
-					$premium2 = $row->recommendation_paid;
-					$premium3 = $row->rating_paid;
-					
-				}else{
-					$premium2 = '<a href="/sales">Subscribe</a>';
-					$premium3 = '<a href="/sales">Subscribe</a>';
-				}
 				
 				
 				$i++;
@@ -141,12 +136,26 @@ class Schedule_model extends CI_Model {
 				<td style="width:23.0%;background:#ddddff;padding:0in 0in 0in 0in" width="23%">
 					<p class="MsoNormal">
 						<b>
-							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->updated_datetime.'</span>
+							<span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">'.$row->published_date.'</span>
 						</b>
 					</p>
 				</td>
 			</tr>
 				';
+			
+			$rows .= '
+			<tr>
+				<td colspan="6" style="background:white;padding:0in 0in 0in 0in">
+					<p class="MsoNormal" style="text-align:center" align="center">
+						<span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#999999">'.$row->updates.'</span>
+					</p>
+				</td>
+			</tr>
+			';
+			
+				
+				
+				
 			}
 		}
 		return $rows;

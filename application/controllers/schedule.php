@@ -7,8 +7,18 @@ class Schedule extends CI_Controller {
 	{
 		$this->load->model('schedule_model','schedule');
 		$date = "$year-$month-$day";
-		/* most recent blog posting */
 
+		if ($this->input->cookie('premium') == 'yes')
+		{
+			/* live data */
+			$date=$date;
+		}else{
+			/* one weeks ago data */
+			$date=date('Y-m-d',strtotime($date) - 604800);
+		}
+
+		
+		
 		$data['list'] = $this->schedule->get_list($date);
 		$data['date'] = date('l \t\h\e jS \o\f F Y',strtotime($date));
 
