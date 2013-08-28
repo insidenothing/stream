@@ -20,9 +20,9 @@ class Calendar_model extends CI_Model {
 		$content .= "<div style='background-color:#ffff00; font-weight:bold;text-decoration: underline overline;'>";
 		}
 		if ($day == date('d') && $month == date('m') && $year == date('Y')){
-			$content .= "<a style='color:#990000;text-decoration:underline overline; font-weight:bolder;' href='/landing/index/$year/$month/$day'>$day</a>";
+			$content .= "<a style='color:#990000;text-decoration:underline overline; font-weight:bolder;' href='/schedule/index/$year/$month/$day'>$day</a>";
 		} else {
-			$content .= "<a style='color:#000000;text-decoration:none;' href='/landing/index/$year/$month/$day'>$day</a>";
+			$content .= "<a style='color:#000000;text-decoration:none;' href='/schedule/index/$year/$month/$day'>$day</a>";
 		}
 		//$content .= "</div>";
 			return $content;
