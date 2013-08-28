@@ -4,9 +4,9 @@
 	 <table style="width:100.0%;background:#cccccc" border="0" cellpadding="0" cellspacing="1" width="100%">
 		<tbody>
 			<tr>
-				<td colspan="6" style="background:white;padding:0in 0in 0in 0in">
+				<td colspan="6" style="padding:0in 0in 0in 0in">
 					<p class="MsoNormal" style="text-align:center" align="center">
-						<span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">Deals for <?PHP echo $date; ?></span>
+						<span style="font-size:20.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:blue">Deals for <?PHP echo $date; ?></span>
 					</p>
 				</td>
 			</tr>
