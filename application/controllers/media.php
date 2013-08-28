@@ -38,7 +38,7 @@ class Media extends CI_Controller {
 			
 		
 		}else{
-			$data['name'] 		= '';
+			$data['name'] 	= '';
 			$data['link'] 	= '';
 			
 		

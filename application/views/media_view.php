@@ -1,6 +1,6 @@
 
 <input value="<?PHP echo $name;?>">
-<input value="<?PHP echo $title;?>">
+<input value="<?PHP echo $link;?>">
 
 <?PHP echo $list;?>
 

@@ -18,7 +18,7 @@ class Media_model extends CI_Model {
 		{
 			foreach ($query->result() as $row)
 			{
-				$rows .= '<tr><td>'.$row->name.'</td><td>'.$row->symbol.'</td><td>'.date('l \t\h\e jS \o\f F Y',strtotime($row->published_date)).'</td><td>'.date('l \t\h\e jS \o\f F Y \a\t h:i:s A',strtotime($row->updated_datetime)).'</td><td><a href="/admin/index/'.$row->id.'">[edit]</a></td></tr>';
+				$rows .= '<tr><td>'.date('l \t\h\e jS \o\f F Y \a\t h:i:s A',strtotime($row->updated_datetime)).'</td><td><a href="'.$row->link.'">'.$row->name.'</a></td></tr>';
 			}
 		}
 		$rows .= '</table>';
