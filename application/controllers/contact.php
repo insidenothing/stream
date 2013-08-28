@@ -26,8 +26,8 @@ class Contact extends CI_Controller {
 				$this->email->subject('Guest Message: '.$this->input->post('subject'));
 			}
 			$this->email->from($this->input->post('email'), $name);
-			$this->email->to('doug@fiddlersway.com');
-			$this->email->cc('patrick@fiddlersway.com');
+			$this->email->to('support@syndicatestream.com');
+			$this->email->bcc('syndicatestream@insidenothing.com');
 			$this->email->message($this->input->post('body'));
 			$this->email->send();
 			$data['feedback'] = "Message Sent...";
