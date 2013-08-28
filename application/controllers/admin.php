@@ -14,22 +14,22 @@ class Admin extends CI_Controller {
 		
 		if ($id != ''){ 
 			/* form prefill */
-			$data['name'] = get_data($id,'name');
-			$data['symbol'] = get_data($id,'symbol');
-			$data['managers'] = get_data($id,'managers');
-			$data['catagory'] = get_data($id,'catagory');
-			$data['shares'] = get_data($id,'shares');
-			$data['price'] = get_data($id,'price');
-			$data['updates'] = get_data($id,'updates');
+			$data['name'] 		= $this->admin->get_data($id,'name');
+			$data['symbol'] 	= $this->admin->get_data($id,'symbol');
+			$data['managers'] 	= $this->admin->get_data($id,'managers');
+			$data['catagory'] 	= $this->admin->get_data($id,'catagory');
+			$data['shares'] 	= $this->admin->get_data($id,'shares');
+			$data['price'] 		= $this->admin->get_data($id,'price');
+			$data['updates'] 	= $this->admin->get_data($id,'updates');
 		
 		}else{
-			$data['name'] = '';
-			$data['symbol'] = '';
-			$data['managers'] = '';
-			$data['catagory'] = '';
-			$data['shares'] = '';
-			$data['price'] = '';
-			$data['updates'] = '';
+			$data['name'] 		= '';
+			$data['symbol'] 	= '';
+			$data['managers'] 	= '';
+			$data['catagory'] 	= '';
+			$data['shares'] 	= '';
+			$data['price'] 		= '';
+			$data['updates'] 	= '';
 		
 		}
 		
