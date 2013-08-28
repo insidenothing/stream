@@ -9,8 +9,7 @@
 
 
 
-				<h2>Forgot Password? Use this form to reset your Fiddlers Way
-					password.</h2>
+				<h2>Forgot Password? Use this form to reset your Syndicate Stream password.</h2>
 				<h3>Your new password will be emailed to you upon form completion.</h3>
 				
 				
