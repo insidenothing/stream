@@ -33,8 +33,8 @@ class Media extends CI_Controller {
 		
 		if ($id != ''){ 
 			/* form prefill */
-			$data['name'] 		= $this->admin->get_data($id,'name');
-			$data['link'] 		= $this->admin->get_data($id,'link');
+			$data['name'] 		= $this->media->get_data($id,'name');
+			$data['link'] 		= $this->media->get_data($id,'link');
 			
 		
 		}else{
