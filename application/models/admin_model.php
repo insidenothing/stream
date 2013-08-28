@@ -32,7 +32,7 @@ class Admin_model extends CI_Model {
 		$row=$query->row_array();
 		$old = $row[$field];
 		if ($content != $old){
-			$query = $this->db->query("UPDATE ipo_calendar set $field = '$content' where id = '$id'");
+			$query = $this->db->query("UPDATE ipo_calendar set $field = '$content', updated_datetime = NOW() where id = '$id'");
 			return $field.' updated from '.$old.' to '.$content.'
 ';		
 		}
