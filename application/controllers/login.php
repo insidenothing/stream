@@ -51,7 +51,7 @@ class Login extends CI_Controller {
 		$this->output->enable_profiler(FALSE);
 		$this->load->library('User','user');
 		$this->user->delete_cookies();
-		$this->output->set_header("Location: /");
+		$this->output->set_header("Location: /landing");
 	}
 
 
