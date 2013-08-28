@@ -5,8 +5,8 @@ class Admin extends CI_Controller {
 	public function index()
 	{
 		//$this->output->enable_profiler(TRUE);
-		//$this->load->model('admin_model','admin');
-		//$data['pages'] = $this->admin->get_pages('pages','page');
+		$this->load->model('admin_model','admin');
+		$data['list'] = $this->admin->get_list();
 		//$data['blogs'] = $this->admin->get_pages('blogs','blog');
 		//$data['wire'] = $this->admin->get_pages('wire','wire');
 		//$data['ipos'] = $this->admin->get_ipos();

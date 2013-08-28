@@ -8,35 +8,20 @@ class Admin_model extends CI_Model {
 		parent::__construct();
 	}
 
-	function get_pages($table,$controller)
+
+	
+	function get_list()
 	{
-		$rows='';
-		$query = $this->db->query("SELECT * from $table order by id DESC");
+		$query = $this->db->query("SELECT * from ipo_calendar order by updated_datetime DESC");
 		if ($query->num_rows() > 0)
 		{
 			foreach ($query->result() as $row)
 			{
-				$rows .= "<tr><td>".$row->id."</td><td><a href='/$controller/index/".$row->seo."'>".$row->seo."</a></td><td>".$row->title."</td></tr>";
+				$rows .= '<li>'.$row->name.' ('.$row->symbol.') '.date('l \t\h\e jS \o\f F Y',strtotime($row->published_date)).' [edit] [delete]</li>';
 			}
 		}
-		
 		return $rows;
 	}
-	
-	
-	function get_ipos()
-	{
-		$rows='';
-		$query = $this->db->query("SELECT * from ipo_calendar order by published DESC");
-		if ($query->num_rows() > 0)
-		{
-			foreach ($query->result() as $row)
-			{
-				$rows .= "<tr><td>".$row->id."</td><td>".$row->published."</td><td>".$row->name."</td></tr>";
-			}
-		}
-	
-		return $rows;
-	}
+
 	
 }
