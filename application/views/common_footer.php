@@ -14,7 +14,7 @@ Copyright &copy; <script type='text/javascript'>var creditsyear = new Date();doc
 E-Mail Address <input name="email"> Password <input name="password" type="password"> <input style="font-size: 11px; margin:0px; padding:0px;" type="submit" value="Go"> 
 </form>
 <?PHP }else{ ?>
-Welcome <?PHP echo $_COOKIE['name']; ?>, <a href="/login/do_logout">Log Out</a>
+Welcome <?PHP echo $_COOKIE['name']; ?>, <?PHP if ($_COOKIE['premium'] == 'yes'){ ?> Premium Account Confirmed, <?PHP } ?> <a href="/login/do_logout">Log Out</a>
 <?PHP } ?>
 </div>
 </div><!-- #footer -->
