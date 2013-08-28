@@ -47,6 +47,11 @@ class Media_model extends CI_Model {
 		$this->db->query("insert into media (name,link,updated_datetime) values ('$name','$link',NOW() )");
 		return "$name added.";	
 	}
+	function delete_data($id)
+	{
+		$this->db->query("delete * from media where id = '$id'");
+		return "$name deleted.";	
+	}
 	function set_data($id,$field,$content)
 	{
 		$content = addslashes($content);

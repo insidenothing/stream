@@ -22,6 +22,14 @@
 					<input type="hidden" name="query_type" value="insert">
 				<?PHP } ?>
 				</form>
+				
+				<?PHP if ($name != ''){?>
+				<form method="post">
+					<input type="submit" value="DELETE (This cannot be undone)">
+					<input type="hidden" name="query_type" value="delete">
+				</form>
+				<?PHP } ?>
+				
 				<?PHP echo $list;?>
 				<?PHP echo $results;?>
 			<?PHP } ?>
