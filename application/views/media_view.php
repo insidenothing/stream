@@ -5,7 +5,7 @@
 			<div class="widget widget_text" id="text-2">
 			
 			
-			<?PHP if ($level == 'Operations'){?>
+			<?PHP if ($level == 'Operator'){?>
 				<div class="title">Speed in Simplicity...</div>
 				<form method="post">
 				Name:<br>
