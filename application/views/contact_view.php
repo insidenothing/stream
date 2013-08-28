@@ -27,7 +27,7 @@
 				<table width="100%">
 					<tr>
 						<td width="50%"><?php echo $feedback; ?></td>
-						<td width="50%"><select style="background-color:red;" name="spam"><option>1</option><option>2</option></select></td>
+						<td width="50%"><select style="background-color:red;" name="spam"><option style="background-color:red;">1</option><option style="background-color:green;">2</option></select></td>
 					</tr>
 					<tr>
 						<td width="50%">From:</td>
