@@ -44,6 +44,7 @@ class Media extends CI_Controller {
 		
 		}
 		$data['list'] = $this->media->get_list();
+		$data['public'] = $this->media->get_public();
 		$data['results'] = $results;
 		$this->load->library('Menu','menu');
 		$this->menu->load_common('media_view',$data);

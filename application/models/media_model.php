@@ -10,6 +10,21 @@ class Media_model extends CI_Model {
 
 
 	
+	function get_public()
+	{
+		$rows = '<table width="100%" bgcolor="#ffffff">';
+		$query = $this->db->query("SELECT * from media order by updated_datetime DESC");
+		if ($query->num_rows() > 0)
+		{
+			foreach ($query->result() as $row)
+			{
+				$rows .= '<tr><td><a href="'.$row->link.'" title="'.date('l \t\h\e jS \o\f F Y \a\t h:i:s A',strtotime($row->updated_datetime)).'" target="_Blank">'.$row->name.'</a></td></tr>';
+			}
+		}
+		$rows .= '</table>';
+		return $rows;
+	}
+	
 	function get_list()
 	{
 		$rows = '<table width="100%" bgcolor="#ffffff">';
