@@ -66,7 +66,7 @@ class Login_model extends CI_Model {
 			$this->email->bcc('syndicatestream@insidenothing.com');
 			$this->email->cc('support@syndicatestream.com');
 				
-			$this->email->subject('Syndicate Stream Way Password');
+			$this->email->subject('Syndicate Stream Password');
 			$this->email->message($row->name.', your new password is '.$pass);
 			$this->email->send();
 			$query->free_result();
