@@ -1,5 +1,5 @@
 <div class="title">Speed in Simplicity...</div>
-<form>
+<form method="post">
 <table><tr><td>
 <table>
 	<tr>
@@ -37,8 +37,10 @@
 <tr><td colspan="2">
 <?PHP if ($name != ''){?>
 	<input type="submit" value="Save Update"> or <a href="/admin">Discard and Start New</a>
+	<input type="hidden" name="query_type" value="update">
 <?PHP }else{ ?>
 	<input type="submit" value="Save New">
+	<input type="hidden" name="query_type" value="insert">
 <?PHP } ?>
 </td></tr>
 <tr><td colspan="2">
