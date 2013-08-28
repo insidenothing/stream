@@ -81,7 +81,7 @@ class Schedule_model extends CI_Model {
 		{
 			foreach ($query->result() as $row)
 			{
-				$rows = '
+				$rows .= '
 			<tr>
 				<td style="width:20.0%;background:#E8E8E8;padding:0in 0in 0in 0in" width="20%">
 					<p class="MsoNormal">
