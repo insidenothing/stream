@@ -18,7 +18,7 @@
 <?php if($response != ''){?>		
 <li class="error"><?php echo $response;?></li>
 <?php }?>
-<?php //echo validation_errors(); ?>
+<?php echo validation_errors(); ?>
 <div class="slate">
 <?php echo form_open('login/do_reset')?>
 	<table>
