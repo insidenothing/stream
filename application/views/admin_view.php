@@ -30,8 +30,7 @@
 </td><td>
 <table>
 	<tr>
-		<td>Update Notes</td>
-		<td><textarea name="updates" cols="45" rows="15"><?PHP echo $updates;?></textarea></td>
+		<td>Update Notes<br /><textarea name="updates" cols="45" rows="15"><?PHP echo $updates;?></textarea></td>
 	</tr>
 </table>
 </td></tr>
